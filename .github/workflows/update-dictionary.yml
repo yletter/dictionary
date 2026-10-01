@@ -1,0 +1,36 @@
+name: Update dictionary
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-dictionary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update word lists
+        run: python dictionary.py
+
+      - name: Commit updated word lists
+        run: |
+          if git diff --quiet -- master.txt newwords.txt; then
+            echo "No dictionary updates to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add master.txt newwords.txt
+          git commit -m "Update dictionary word lists"
+          git push
