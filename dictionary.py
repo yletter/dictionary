@@ -10,7 +10,7 @@ NEW_WORDS_FILE = ROOT / "newwords.txt"
 
 def words_from(text):
     return {
-        word
+        word.lower()
         for word in re.sub(r"[^A-Za-z]", "\n", text).splitlines()
         if word
     }
