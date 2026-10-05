@@ -1,0 +1,14 @@
+- `Decider` means a final match or event that determines the winner.
+- `Deficit` means an amount by which something is less than needed or expected.
+- `Chipped` means hit a short, high shot in golf; it can also mean slightly damaged.
+- `Netted` means scored a goal or caught something in a net.
+- `Rally` means a period of recovery or a series of exchanges in sports.
+- `Shuttle` means a badminton projectile; it can also mean a vehicle making regular short trips.
+- `Sparkling` means shining brightly or being lively and impressive.
+- `Stormed` means moved or attacked with great force or speed.
+- `Furious` means extremely angry or intense.
+- `Threw` is the past tense of `throw`, meaning sent something through the air.
+- `Lay` is the past tense of `lie`, meaning rested or was placed in a position.
+- `Unrelenting` means not becoming less intense or stopping.
+- `Ounce` is a small unit of weight; figuratively, it means a very small amount.
+- `Grind` means hard, repetitive, tiring work.
