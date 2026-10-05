@@ -1,0 +1,17 @@
+- `Casualty` means a person injured or killed in an accident, conflict, or disaster.
+- `Relegated` means moved to a lower rank, division, or less important position.
+- `Caveat` means a warning or important condition.
+- `Defended` means protected something or successfully kept a title from being taken.
+- `Propel` means to push or drive something forward.
+- `Drawn` means tied in score, pulled, or created with lines, depending on context.
+- `Drew` is the past tense of `draw`; in sports, it means finished with an equal score.
+- `Quickfire` means happening very quickly.
+- `Sway` means to influence someone or move slowly from side to side.
+- `Rain-marred` means negatively affected or disrupted by rain.
+- `Meagre` means very small or insufficient in amount.
+- `Dripping` means falling or covered with drops of liquid.
+- `Stellar` means outstanding or excellent.
+- `Franchise` means a professional sports team or a business licensed to use a brand.
+- `Prospects` means likely future opportunities or chances of success.
+- `Orthodox` means traditional or following accepted beliefs or methods.
+- `Intriguing` means very interesting because it is unusual or mysterious.
