@@ -1,0 +1,14 @@
+- `Birdies` are golf scores of one stroke under par on a hole.
+- `Territory` means an area controlled, claimed, or connected with someone or something.
+- `Walkover` means an easy victory, often because the opponent does not compete.
+- `Foray` means a short attempt or venture into a new activity or area.
+- `Pulsating` means beating or moving with a regular rhythm; it can describe something exciting.
+- `Battle` means a fight or intense competition.
+- `Shredding` means tearing or cutting into small pieces.
+- `Crisp` means firm, fresh, clear, or sharply defined.
+- `Frantic` means extremely worried, hurried, or panicked.
+- `Smashes` means hits something with great force.
+- `Gasping` means breathing in suddenly or with difficulty.
+- `Clawing` means scratching or trying desperately to gain something.
+- `Arena` means a venue for sports or entertainment; figuratively, an area of activity.
+- `Roar` means a very loud deep sound, often from a crowd or animal.
