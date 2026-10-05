@@ -1,0 +1,17 @@
+- `Roaring` means making a loud deep sound or happening with great energy.
+- `Chaotic` means completely disorganized and confusing.
+- `Bitterly` means with strong anger, sadness, or disappointment.
+- `Strokeplay` is a golf format where the winner has the fewest total strokes.
+- `Derailed` means caused to fail, stop, or go off course.
+- `Cramping` means experiencing painful tightening of muscles.
+- `Shattered` means broken into pieces; figuratively, deeply shocked or exhausted.
+- `Gruelling` means extremely difficult and tiring.
+- `Rivals` are competitors or opponents.
+- `Curtain` means a piece of fabric that covers a window or stage; it can symbolize an ending.
+- `Tactical` means carefully planned to achieve a particular goal.
+- `Resilience` means the ability to recover quickly from difficulty.
+- `Elite` means the best or most skilled group.
+- `Immaculate` means perfectly clean, neat, or flawless.
+- `Deception` means the act of making someone believe something false.
+- `Scrambling` means moving quickly or urgently, often with difficulty.
+- `Swift` means very fast.
