@@ -1,0 +1,16 @@
+- `Fierce` means very strong, intense, or aggressive.
+- `Carving` means cutting or shaping something; in sports, it can mean moving sharply through space.
+- `Humdinger` means something remarkable, exciting, or impressive.
+- `Yielding` means giving way or allowing another person to take control.
+- `Standoff` means a situation where neither side can gain an advantage or agree.
+- `Writhing` means twisting and turning because of pain or discomfort.
+- `Grinding` means working or moving with harsh, difficult effort.
+- `Stoppages` are pauses or interruptions in a game or activity.
+- `Gameplay` means the way a game is played.
+- `Contingent` means a group of people representing a larger organization or country.
+- `Tame` means not wild, dangerous, exciting, or difficult.
+- `Nemesis` means a long-standing rival or someone who regularly defeats another person.
+- `Shuttlecocks` are feathered or plastic projectiles used in badminton.
+- `Finality` means the sense that something is finished and cannot be changed.
+- `Bouts` are short periods of fighting, illness, or intense activity.
+- `Pitting` means setting people or teams against each other.
