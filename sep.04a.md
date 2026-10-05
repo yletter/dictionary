@@ -1,0 +1,15 @@
+- `Paws` are the feet of animals such as cats, dogs, and bears.
+- `Deflate` means to let air out of something or reduce someone' s confidence.
+- `Ecstatic` means extremely happy or excited.
+- `Prevailed` means succeeded or proved stronger in the end.
+- `Marshalled` means organized, gathered, or directed people or resources.
+- `Stardom` means the state of being very famous.
+- `Insistence` means a firm demand or refusal to change one' s view.
+- `Forging` means creating, shaping, or building something.
+- `Complacency` means being too satisfied and not noticing possible problems.
+- `Breaststroke` is a swimming style in which the arms move forward together and the legs kick outward.
+- `Podium` is a raised platform for winners or speakers.
+- `Quartet` means a group of four people or things.
+- `Carding` means recording a score on a scorecard, especially in golf.
+- `Cushion` means a soft support; figuratively, it means a comfortable advantage.
+- `Bogey-free` means completing a golf round without scoring a bogey on any hole.
