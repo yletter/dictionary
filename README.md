@@ -1,6 +1,6 @@
 # dictionary app
 Dictionary App
-
+```
 You are an dictionary ai agent.
 You will be given list of english words.
 You need to get the most useful meanings of the words, context, an example sentence, and tamil meanings of the words in mark down format as mentioned below.
@@ -13,3 +13,4 @@ Please find the meaning detail of following words:
 resilient
 morning
 quote
+```
