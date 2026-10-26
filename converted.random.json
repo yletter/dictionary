@@ -1,0 +1,1003 @@
+[
+    {
+        "word": "Swift",
+        "meaning": "Fast; happening or done quickly.",
+        "context": "Used to describe quick movements, decisions, actions, or changes.",
+        "example": "The company took swift action to fix the security vulnerability.",
+        "contextMeaning": "வேகமான, விரைவான, துரிதமான."
+    },
+    {
+        "word": "Grueling",
+        "meaning": "Extremely tiring, exhausting, or demanding.",
+        "context": "Used to describe difficult work, intense training, long journeys, or challenging competitions.",
+        "example": "The engineers completed a grueling 12-hour shift during the system outage.",
+        "contextMeaning": "மிகவும் சோர்வடையச் செய்யும், கடுமையான, கடினமான."
+    },
+    {
+        "word": "Census",
+        "meaning": "An official count of a population, usually collecting information about people's age, occupation, housing, and other characteristics.",
+        "context": "Used in government planning, population studies, and demographic research.",
+        "example": "The government conducts a census to understand the country's population.",
+        "contextMeaning": "மக்கள்தொகைக் கணக்கெடுப்பு."
+    },
+    {
+        "word": "Crisis",
+        "meaning": "A time of intense difficulty, danger, or uncertainty; a serious emergency or turning point.",
+        "context": "Used in business, politics, health, finance, and situations requiring urgent action.",
+        "example": "The company faced a financial crisis after losing its biggest customer.",
+        "contextMeaning": "நெருக்கடி, இக்கட்டான நிலை, அபாயகரமான சூழ்நிலை."
+    },
+    {
+        "word": "Cushion",
+        "meaning": "A soft object used for comfort; something that protects against impact or reduces the effect of a problem; to soften or reduce an impact.",
+        "context": "Used for furniture, safety equipment, and financial protection such as emergency savings.",
+        "example": "Having six months of savings provides a financial cushion during unemployment.",
+        "contextMeaning": "மெத்தை, தலையணை; பாதுகாப்பு அரண்; தாக்கத்தைக் குறைத்தல்."
+    },
+    {
+        "word": "Insane",
+        "meaning": "Mentally ill in an older or legal sense; extremely unreasonable, foolish, or unbelievable; extraordinarily intense or impressive in informal usage.",
+        "context": "Commonly used informally to emphasize something extreme, such as an insane workload or insane speed. The term can be insensitive when used to describe mental illness.",
+        "example": "The team worked under insane pressure to restore the service before morning.",
+        "contextMeaning": "மனநிலை பாதிக்கப்பட்ட; பகுத்தறிவற்ற; அளவுக்கு மீறிய, நம்ப முடியாத."
+    },
+    {
+        "word": "Yielding",
+        "meaning": "Giving way or surrendering; producing or providing something; flexible and able to bend under pressure.",
+        "context": "Used for people who give in during disagreements, materials that bend, and land or investments that produce returns.",
+        "example": "The yielding material absorbed the impact without breaking.",
+        "contextMeaning": "விட்டுக்கொடுக்கிற, பணிகிற, வளைந்து கொடுக்கிற; விளைச்சல் அல்லது வருமானம் தருகிற."
+    },
+    {
+        "word": "Impeccable",
+        "meaning": "Perfect; having no faults, mistakes, or flaws.",
+        "context": "Used to describe excellent behavior, accuracy, appearance, manners, or professional performance.",
+        "example": "Her impeccable attention to detail helped prevent production errors.",
+        "contextMeaning": "குறையற்ற, பிழையற்ற, மிகச் சிறப்பான."
+    },
+    {
+        "word": "Dogmatism",
+        "meaning": "The practice of insisting that one's beliefs are unquestionably correct without considering other opinions or evidence.",
+        "context": "Used in discussions of politics, religion, philosophy, leadership, and decision-making.",
+        "example": "Dogmatism can prevent a team from accepting new evidence and improving its processes.",
+        "contextMeaning": "பிடிவாதமான கொள்கைப்பற்று, மாற்றுக் கருத்துகளை ஏற்காத மனப்பான்மை."
+    },
+    {
+        "word": "Proliferation",
+        "meaning": "A rapid increase in number, amount, or spread; rapid multiplication or expansion.",
+        "context": "Used in technology, businesses, diseases, weapons, information, and the growth of online services.",
+        "example": "The proliferation of AI tools has changed how software engineers work.",
+        "contextMeaning": "பெருக்கம், விரைவான பரவல், எண்ணிக்கையில் திடீர் அதிகரிப்பு."
+    },
+    {
+        "word": "Demographics",
+        "meaning": "Statistical characteristics of a population, such as age, gender, income, education, occupation, and location.",
+        "context": "Used in marketing, public policy, healthcare, business planning, and population research.",
+        "example": "The company studied the demographics of its customers before launching the product.",
+        "contextMeaning": "மக்கள்தொகைப் பண்புகள், மக்கள்தொகை விவரங்கள்."
+    },
+    {
+        "word": "Strokeplay",
+        "meaning": "A format of golf in which the winner is determined by the total number of strokes taken; in cricket, the style and quality of a batter's shot-making.",
+        "context": "Used in sports reporting. In cricket, it often describes a batter's ability to play attractive, effective shots.",
+        "example": "The commentator praised the batter's elegant strokeplay throughout the innings.",
+        "contextMeaning": "(கிரிக்கெட்) மட்டையால் பந்தை அடிக்கும் திறன் மற்றும் ஆட்டப் பாணி; (கோல்ஃப்) ஸ்ட்ரோக் அடிப்பதன் முறையமைப்பு."
+    },
+    {
+        "word": "Homegrown",
+        "meaning": "Grown or developed locally or within one's own country, organization, or community; developed internally rather than acquired from outside.",
+        "context": "Used for locally produced food, domestic talent, and technology or software developed by an organization's own team.",
+        "example": "The company developed a homegrown monitoring tool to track application performance.",
+        "contextMeaning": "உள்நாட்டில் உருவாக்கப்பட்ட, உள்ளூரில் வளர்க்கப்பட்ட, சொந்தமாக உருவாக்கப்பட்ட."
+    },
+    {
+        "word": "Penal",
+        "meaning": "Related to punishment, penalties, or the legal system dealing with crime.",
+        "context": "Used in legal terms such as penal code, penal provisions, and penal sanctions. In sports, it can refer to penalties.",
+        "example": "The offence is punishable under the relevant penal provisions.",
+        "contextMeaning": "தண்டனை தொடர்பான, தண்டனைக்குரிய, குற்றவியல் தண்டனை சார்ந்த."
+    },
+    {
+        "word": "Thrashing",
+        "meaning": "Defeating someone by a very large margin; beating or hitting someone repeatedly; in computing, excessive movement of data between memory and storage that severely reduces performance.",
+        "context": "Used in sports for a heavy defeat, in physical contexts for beating, and in computing for poor memory performance.",
+        "example": "The home team suffered a thrashing after conceding five goals.",
+        "contextMeaning": "படுதோல்வி, மிகப்பெரிய தோல்வி; அடித்துத் துவைத்தல்; (கணினி) நினைவகத்தில் அதிகமான பரிமாற்றம்."
+    },
+    {
+        "word": "Unrelenting",
+        "meaning": "Not becoming weaker or less severe; persistent, continuous, and showing no mercy or relief.",
+        "context": "Used to describe pressure, criticism, competition, pain, weather, or determined effort.",
+        "example": "The engineers worked under unrelenting pressure to resolve the outage.",
+        "contextMeaning": "தளராத, இடைவிடாத, குறையாத, இரக்கம் காட்டாத."
+    },
+    {
+        "word": "Remarkable",
+        "meaning": "Unusual or exceptional enough to attract attention; worthy of notice or admiration.",
+        "context": "Used to describe achievements, improvements, abilities, events, or discoveries.",
+        "example": "The team made remarkable progress in reducing application response time.",
+        "contextMeaning": "குறிப்பிடத்தக்க, வியக்கத்தக்க, சிறப்பான, பாராட்டத்தக்க."
+    },
+    {
+        "word": "Curtailed",
+        "meaning": "Reduced, limited, shortened, or restricted.",
+        "context": "Used when activities, spending, freedom, production, or services are reduced.",
+        "example": "The company curtailed unnecessary spending to control costs.",
+        "contextMeaning": "குறைக்கப்பட்ட, கட்டுப்படுத்தப்பட்ட, சுருக்கப்பட்ட."
+    },
+    {
+        "word": "Resorted",
+        "meaning": "Turned to a particular action or method, often because other options were unavailable or unsuccessful. Usually appears as 'resorted to.'",
+        "context": "Used when someone adopts a method, sometimes an undesirable one, to solve a problem.",
+        "example": "After several failed attempts, the team resorted to restoring the previous software version.",
+        "contextMeaning": "நாடினான் / நாடினார், ஒரு வழியைத் தேர்ந்தெடுத்தார், வேறு வழியின்றி மேற்கொண்டார்."
+    },
+    {
+        "word": "Intriguing",
+        "meaning": "Very interesting, unusual, or mysterious; making someone curious and eager to learn more.",
+        "context": "Used for ideas, mysteries, discoveries, research findings, and unexpected developments.",
+        "example": "The report presented an intriguing explanation for the sudden increase in traffic.",
+        "contextMeaning": "ஆர்வத்தைத் தூண்டும், சுவாரசியமான, புதிரான."
+    },
+    {
+        "word": "Soak",
+        "meaning": "To make something thoroughly wet by leaving it in liquid; to absorb liquid; to remain in liquid for some time; informally, to charge someone an excessively high price.",
+        "context": "Used in cooking, cleaning, gardening, rain, and informal conversations about expensive purchases.",
+        "example": "Soak the seeds in water overnight before planting them.",
+        "contextMeaning": "ஊறவைத்தல், நனைத்தல், திரவத்தை உறிஞ்சுதல்; (பேச்சுவழக்கில்) அதிக விலை வைப்பது."
+    },
+    {
+        "word": "Comprehensive",
+        "meaning": "Complete and including all or nearly all important details; covering a subject thoroughly.",
+        "context": "Used for reports, reviews, plans, investigations, and explanations that cover a topic in depth.",
+        "example": "The engineering team prepared a comprehensive report on the security vulnerabilities.",
+        "contextMeaning": "விரிவான, முழுமையான, அனைத்தையும் உள்ளடக்கிய."
+    },
+    {
+        "word": "Vandalism",
+        "meaning": "The deliberate destruction, damage, or defacement of public or private property.",
+        "context": "Used when people intentionally damage buildings, vehicles, public facilities, or other people's belongings.",
+        "example": "The police investigated the vandalism of several public buses.",
+        "contextMeaning": "பொது அல்லது தனியார் சொத்துகளை வேண்டுமென்றே சேதப்படுத்துதல்."
+    },
+    {
+        "word": "Mediocrity",
+        "meaning": "The state of being average or ordinary; a lack of exceptional quality, skill, or achievement.",
+        "context": "Used when discussing performance, education, leadership, creativity, or work that fails to reach a high standard.",
+        "example": "The company encouraged innovation to avoid mediocrity in its products.",
+        "contextMeaning": "சராசரித்தன்மை, சாதாரண நிலை, சிறப்பின்மை."
+    },
+    {
+        "word": "Hues",
+        "meaning": "Different colours or shades of colour.",
+        "context": "Used in art, photography, nature, fashion, and descriptions of colourful scenes. Hue is the singular form.",
+        "example": "The sunset painted the sky in beautiful hues of orange, pink, and purple.",
+        "contextMeaning": "நிறங்கள், நிறச்சாயல்கள், வண்ண வேறுபாடுகள்."
+    },
+    {
+        "word": "Prey",
+        "meaning": "An animal hunted and killed by another animal for food; a person or thing that is vulnerable to harm, exploitation, or attack. As a verb, prey on means to exploit or take advantage of someone.",
+        "context": "Used in wildlife, crime, and discussions about manipulation or exploitation.",
+        "example": "Scammers often prey on people who are unfamiliar with online banking.",
+        "contextMeaning": "இரை; பாதிக்கப்படக்கூடிய நபர்; ஒருவரின் பலவீனத்தைப் பயன்படுத்திக் கொள்ளுதல்."
+    },
+    {
+        "word": "Carriageway",
+        "meaning": "The part of a road used by vehicles to travel, excluding features such as pavements or footpaths.",
+        "context": "Commonly used in British and Indian English in road engineering, traffic regulations, and driving instructions.",
+        "example": "Drivers should not stop their vehicles in the middle of the carriageway.",
+        "contextMeaning": "வாகனங்கள் செல்லும் சாலைப் பகுதி, வாகனப் போக்குவரத்துப் பாதை."
+    },
+    {
+        "word": "Defended",
+        "meaning": "Protected someone or something from attack; argued in support of a person, idea, or decision; protected a title or position against a challenger.",
+        "context": "Used in legal proceedings, sports, debates, conflicts, and discussions.",
+        "example": "The manager defended the team's decision by presenting clear evidence.",
+        "contextMeaning": "பாதுகாத்தார், தற்காத்தார், ஆதரித்துப் பேசினார், தற்காப்பு செய்தார்."
+    },
+    {
+        "word": "Prosperity",
+        "meaning": "The state of being successful, wealthy, or financially secure; general economic well-being and growth.",
+        "context": "Used in discussions about individuals, businesses, communities, and national economies.",
+        "example": "Stable institutions and good education can contribute to a country's prosperity.",
+        "contextMeaning": "செழிப்பு, வளமை, பொருளாதார முன்னேற்றம்."
+    },
+    {
+        "word": "Nautical",
+        "meaning": "Related to ships, sailing, navigation, or the sea.",
+        "context": "Used in maritime transport, navigation, marine engineering, and sailing terminology.",
+        "example": "The captain used nautical charts to navigate safely through the waters.",
+        "contextMeaning": "கடல்சார், கப்பல் போக்குவரத்து தொடர்பான, கடற்பயணத் தொடர்பான."
+    },
+    {
+        "word": "Civil",
+        "meaning": "Related to citizens or society; polite and courteous; related to non-criminal legal matters; relating to civil engineering or public infrastructure.",
+        "context": "The meaning depends on the phrase: civil rights, civil behaviour, civil court, or civil engineer.",
+        "example": "The dispute was settled in a civil court rather than a criminal court.",
+        "contextMeaning": "குடிமை சார்ந்த, நாகரிகமான, சிவில் சட்டம் சார்ந்த, பொறியியல் கட்டுமானம் சார்ந்த."
+    },
+    {
+        "word": "Litigating",
+        "meaning": "Taking part in a legal dispute that is being resolved through court proceedings.",
+        "context": "Used in law and business when individuals or organizations pursue or defend claims in court.",
+        "example": "The company is litigating the contract dispute in a civil court.",
+        "contextMeaning": "நீதிமன்றத்தில் வழக்குத் தொடருதல், வழக்காடுதல், சட்டப் போராட்டத்தில் ஈடுபடுதல்."
+    },
+    {
+        "word": "Lineage",
+        "meaning": "A person's ancestry or family descent; the sequence of people, generations, or origins from which someone or something comes.",
+        "context": "Used in family history, genealogy, biology, and the history of ideas, technologies, or traditions.",
+        "example": "The historian traced the royal family's lineage back several centuries.",
+        "contextMeaning": "வம்சாவளி, குலப்பரம்பரை, தலைமுறைத் தொடர்பு."
+    },
+    {
+        "word": "Households",
+        "meaning": "Groups of people living together in one home; the homes and domestic units within a population.",
+        "context": "Used in census data, economics, public policy, surveys, and discussions of family expenses.",
+        "example": "Rising electricity prices have increased expenses for many households.",
+        "contextMeaning": "குடும்பங்கள், ஒரே வீட்டில் வசிக்கும் மக்கள் குழுக்கள், குடும்ப அலகுகள்."
+    },
+    {
+        "word": "Gallows",
+        "meaning": "A structure historically used for hanging people as a method of execution.",
+        "context": "Used in historical accounts, legal history, and literature discussing capital punishment.",
+        "example": "The condemned prisoner was led to the gallows.",
+        "contextMeaning": "தூக்குமேடை, தூக்கிலிடும் அமைப்பு."
+    },
+    {
+        "word": "Aboard",
+        "meaning": "On or inside a ship, aircraft, train, or bus; onto a vehicle or vessel; part of a team or organization.",
+        "context": "Used in travel announcements and expressions such as come aboard or welcome aboard.",
+        "example": "All passengers must be aboard the train before departure.",
+        "contextMeaning": "கப்பலில், விமானத்தில் அல்லது வாகனத்தில்; குழுவில் இணைந்த."
+    },
+    {
+        "word": "Sovereignty",
+        "meaning": "The authority of a state to govern itself independently; supreme political power within a territory; ultimate authority over a particular matter.",
+        "context": "Used in international relations, constitutional law, politics, and discussions of national independence.",
+        "example": "The country fought to protect its sovereignty and territorial integrity.",
+        "contextMeaning": "இறையாண்மை, சுயாட்சி அதிகாரம், தன்னாட்சி உரிமை."
+    },
+    {
+        "word": "Antagonist",
+        "meaning": "A person who opposes or competes against another; the main opposing character in a story, play, or film.",
+        "context": "Used in literature, cinema, conflicts, and descriptions of opposing forces.",
+        "example": "The antagonist creates obstacles that challenge the hero throughout the film.",
+        "contextMeaning": "எதிரி, எதிர்ப்பாளர், கதையின் முக்கிய எதிர்மறைக் கதாபாத்திரம்."
+    },
+    {
+        "word": "Adjudication",
+        "meaning": "The formal process of making a judgment or decision about a dispute; the resolution of a legal claim by an authorized person or body.",
+        "context": "Used in courts, tribunals, arbitration-related procedures, administrative law, and contract disputes.",
+        "example": "The dispute was referred for adjudication after both parties failed to reach an agreement.",
+        "contextMeaning": "தீர்ப்பளித்தல், வழக்கை விசாரித்து முடிவு செய்தல், சட்டப்பூர்வத் தீர்ப்பு."
+    },
+    {
+        "word": "Intensified",
+        "meaning": "Became stronger, more severe, or more extreme; made something more intense or powerful.",
+        "context": "Used to describe increasing competition, pressure, conflict, rainfall, efforts, or emotions.",
+        "example": "Competition intensified after several new companies entered the market.",
+        "contextMeaning": "தீவிரமடைந்த, அதிகரித்த, வலுப்பெற்ற, மேலும் கடுமையான."
+    },
+    {
+        "word": "Substandard",
+        "meaning": "Below the expected or required standard; not good enough in quality, performance, or safety.",
+        "context": "Used to describe poor-quality products, services, work, materials, or performance.",
+        "example": "The team rejected the substandard code because it failed the security requirements.",
+        "contextMeaning": "தரம் குறைந்த, எதிர்பார்க்கப்படும் தரத்திற்குக் கீழான, தரமற்ற."
+    },
+    {
+        "word": "Cross-team",
+        "meaning": "Involving cooperation, communication, or activities between two or more teams.",
+        "context": "Commonly used in workplaces, software engineering, project management, and organizational planning.",
+        "example": "Cross-team collaboration helped the developers and operations engineers resolve the production issue.",
+        "contextMeaning": "குழுக்களுக்கிடையேயான, பல குழுக்கள் இணைந்து செயல்படுகின்ற."
+    },
+    {
+        "word": "Spurious",
+        "meaning": "False, invalid, misleading, or not genuine; appearing to be true or legitimate without sufficient evidence.",
+        "context": "Used in science, statistics, security, law, and technical investigations to describe false results or unjustified claims.",
+        "example": "The analyst discovered a spurious correlation between website traffic and employee productivity.",
+        "contextMeaning": "போலியான, ஆதாரமற்ற, தவறான, உண்மையற்ற."
+    },
+    {
+        "word": "Setback",
+        "meaning": "A problem or difficulty that delays progress or causes a reversal; a temporary failure or obstacle.",
+        "context": "Used in careers, business, projects, health, and personal goals.",
+        "example": "The unexpected server failure was a setback for the migration project.",
+        "contextMeaning": "பின்னடைவு, தடங்கல், முன்னேற்றத்திற்குத் தடையாக அமையும் நிகழ்வு."
+    },
+    {
+        "word": "Pulsating",
+        "meaning": "Expanding and contracting rhythmically; throbbing or beating repeatedly; displaying a strong, rhythmic movement or energy.",
+        "context": "Used to describe a beating heart, throbbing pain, flashing lights, rhythmic music, or a lively atmosphere.",
+        "example": "The city had a pulsating nightlife filled with music and bright lights.",
+        "contextMeaning": "துடித்துக்கொண்டிருக்கும், தாளமிட்டுத் துடிக்கும், துடிப்பான."
+    },
+    {
+        "word": "Enacting",
+        "meaning": "Making a law officially valid by passing it; putting a policy or plan into effect; performing or portraying an event or role.",
+        "context": "Commonly used in government, legislation, public policy, and drama.",
+        "example": "The government is enacting new laws to improve road safety.",
+        "contextMeaning": "சட்டமாக இயற்றுதல், நடைமுறைப்படுத்துதல், நடித்துக் காட்டுதல்."
+    },
+    {
+        "word": "Roaring",
+        "meaning": "Making a loud, deep sound; moving or operating with great force; growing or progressing rapidly.",
+        "context": "Used for lions, crowds, engines, fires, storms, and expressions such as a roaring success.",
+        "example": "The roaring engine could be heard from several streets away.",
+        "contextMeaning": "கர்ஜிக்கும், முழங்கும், பேரொலியுடன் இயங்கும், மிகச் சிறப்பாக வளர்கிறது."
+    },
+    {
+        "word": "Generous",
+        "meaning": "Willing to give money, time, help, or resources freely; more than adequate or expected in amount or size.",
+        "context": "Used to describe helpful people, donations, rewards, portions, and offers.",
+        "example": "The company offered a generous bonus to employees who exceeded their targets.",
+        "contextMeaning": "தாராளமான, கொடையுள்ள, பெருந்தன்மையான, அதிகமான."
+    },
+    {
+        "word": "Deception",
+        "meaning": "The act of deliberately misleading someone; making someone believe something that is false.",
+        "context": "Used in fraud, relationships, business, politics, and cybersecurity.",
+        "example": "The investigation revealed a deception designed to trick customers into sharing their passwords.",
+        "contextMeaning": "ஏமாற்றுதல், வஞ்சகம், மோசடி, பொய்யாக நம்பவைத்தல்."
+    },
+    {
+        "word": "Caved",
+        "meaning": "Collapsed inward or gave way under pressure; gave in to demands, pressure, or temptation.",
+        "context": "Used literally for collapsing structures or figuratively when someone stops resisting.",
+        "example": "After weeks of negotiations, the company caved and accepted the revised terms.",
+        "contextMeaning": "இடிந்து விழுந்தது, சரிந்தது; அழுத்தத்திற்குப் பணிந்தது, விட்டுக்கொடுத்தது."
+    },
+    {
+        "word": "Vested",
+        "meaning": "Legally established or secured as a right; held or guaranteed under specific conditions; having a personal interest in an outcome.",
+        "context": "Used in employment benefits, pensions, property rights, finance, and expressions such as vested interest.",
+        "example": "After completing the required service period, she became entitled to her vested retirement benefits.",
+        "contextMeaning": "சட்டப்படி உறுதிப்படுத்தப்பட்ட, உரிமையாகப் பெற்ற, நிலையான உரிமையுடைய; தனிப்பட்ட ஆதாயத்தில் அக்கறை."
+    },
+    {
+        "word": "Exhaustion",
+        "meaning": "Extreme physical or mental tiredness; the complete use or depletion of a resource or supply.",
+        "context": "Used in health, work, sports, energy management, and financial or natural-resource discussions.",
+        "example": "Continuous on-call duties left the engineers suffering from exhaustion.",
+        "contextMeaning": "கடுமையான சோர்வு, களைப்பு, முழுமையாகத் தீர்ந்துபோதல்."
+    },
+    {
+        "word": "Incredibly",
+        "meaning": "Extremely or exceptionally; in a way that is difficult to believe.",
+        "context": "Used to emphasize the degree of a quality, experience, achievement, or event.",
+        "example": "The application became incredibly fast after the database queries were optimized.",
+        "contextMeaning": "நம்ப முடியாத அளவிற்கு, மிகவும், அளவுக்கு அதிகமாக."
+    },
+    {
+        "word": "Lucrative",
+        "meaning": "Producing a large amount of profit or financial gain; financially rewarding.",
+        "context": "Used to describe businesses, investments, contracts, careers, and commercial opportunities.",
+        "example": "Cloud security has become a lucrative field for experienced technology professionals.",
+        "contextMeaning": "அதிக லாபம் தரும், இலாபகரமான, பொருளாதார ரீதியாகப் பயனுள்ள."
+    },
+    {
+        "word": "Assent",
+        "meaning": "Agreement or approval, especially when formally expressed; to agree to a proposal or request.",
+        "context": "Used in law, government, formal discussions, and decision-making.",
+        "example": "The committee gave its assent to the proposed changes.",
+        "contextMeaning": "ஒப்புதல், சம்மதம், இசைவு; ஒப்புதல் அளித்தல்."
+    },
+    {
+        "word": "Lapse",
+        "meaning": "A temporary failure or mistake; the expiration of a right, agreement, or policy; a period of time passing.",
+        "context": "Used in expressions such as a lapse in judgment, policy lapse, and a lapse of time.",
+        "example": "A brief lapse in concentration caused the engineer to overlook the configuration error.",
+        "contextMeaning": "தவறு, கவனக்குறைவு, காலாவதியாகுதல், கால இடைவெளி."
+    },
+    {
+        "word": "Arena",
+        "meaning": "A place where sports or public events take place; a field of activity, competition, or conflict.",
+        "context": "Used literally for stadiums and figuratively for business, politics, technology, and professional competition.",
+        "example": "Several startups are competing in the arena of artificial intelligence.",
+        "contextMeaning": "விளையாட்டு அரங்கம், போட்டி நடைபெறும் இடம், செயல்பாட்டுத் துறை."
+    },
+    {
+        "word": "Quell",
+        "meaning": "To put an end to or suppress something, especially unrest, resistance, fear, or rumours.",
+        "context": "Used in law enforcement, leadership, crisis management, and conflict resolution.",
+        "example": "The company released a detailed statement to quell customers' concerns about the security breach.",
+        "contextMeaning": "அடக்குதல், ஒடுக்குதல், தணித்தல், கட்டுப்படுத்துதல்."
+    },
+    {
+        "word": "Reinstatement",
+        "meaning": "The act of restoring someone or something to a previous position, status, condition, or right.",
+        "context": "Used in employment, legal matters, insurance, memberships, and access permissions.",
+        "example": "The employee appealed for reinstatement after the disciplinary decision was overturned.",
+        "contextMeaning": "மீண்டும் பணியில் அமர்த்துதல், பழைய நிலைக்கு மீட்டெடுத்தல், உரிமையை மீண்டும் வழங்குதல்."
+    },
+    {
+        "word": "Vigilance",
+        "meaning": "The state of being watchful, alert, and attentive to possible danger, mistakes, or suspicious activity.",
+        "context": "Used in security, healthcare, cybersecurity, public safety, and quality control.",
+        "example": "Constant vigilance is essential to detect suspicious activity in a production environment.",
+        "contextMeaning": "விழிப்புணர்வு, விழிப்புடன் இருத்தல், எச்சரிக்கை உணர்வு, கண்காணிப்பு."
+    },
+    {
+        "word": "Councils",
+        "meaning": "Groups of people appointed or elected to discuss issues, make decisions, or advise an organization or government.",
+        "context": "Used in local government, education, administration, and professional organizations. Councils is the plural of council.",
+        "example": "The local councils discussed plans to improve public transportation.",
+        "contextMeaning": "மன்றங்கள், ஆலோசனைக் குழுக்கள், நிர்வாகக் குழுக்கள்."
+    },
+    {
+        "word": "Contenders",
+        "meaning": "People, teams, or organizations competing for a prize, position, title, or victory.",
+        "context": "Used in sports, elections, business competitions, and recruitment.",
+        "example": "Three companies are the leading contenders for the government contract.",
+        "contextMeaning": "போட்டியாளர்கள், வெற்றிக்கான வாய்ப்புள்ளவர்கள், போட்டியில் பங்கேற்கும் குழுக்கள்."
+    },
+    {
+        "word": "Syringe",
+        "meaning": "A medical instrument used to inject or withdraw fluids through a needle or tube.",
+        "context": "Commonly used in hospitals, clinics, laboratories, and medical treatments.",
+        "example": "The nurse used a sterile syringe to administer the vaccine.",
+        "contextMeaning": "ஊசி செலுத்தும் கருவி, திரவத்தை உறிஞ்ச அல்லது செலுத்தப் பயன்படும் கருவி."
+    },
+    {
+        "word": "Fallout",
+        "meaning": "The negative consequences of an event or decision; radioactive particles that settle after a nuclear explosion.",
+        "context": "Often used figuratively for political disputes, business failures, scandals, and conflicts. In nuclear science, it refers to radioactive material that falls back to the ground.",
+        "example": "The company faced serious fallout after the customer data breach.",
+        "contextMeaning": "பின்விளைவுகள், எதிர்மறையான விளைவுகள்; கதிரியக்கப் படிவுகள்."
+    },
+    {
+        "word": "Pragmatic",
+        "meaning": "Practical and focused on what works in real situations rather than on theories or ideals alone.",
+        "context": "Used in decision-making, leadership, problem-solving, and negotiations.",
+        "example": "The manager took a pragmatic approach by fixing the most critical issues first.",
+        "contextMeaning": "நடைமுறைக்கு ஏற்ற, யதார்த்தமான, செயல்முறை சார்ந்த."
+    },
+    {
+        "word": "Sophisticated",
+        "meaning": "Advanced, complex, or highly developed; showing refined knowledge, experience, or taste.",
+        "context": "Used to describe technology, systems, methods, analysis, and people with extensive knowledge or refinement.",
+        "example": "The company uses a sophisticated monitoring system to detect unusual network activity.",
+        "contextMeaning": "நவீனமான, மேம்பட்ட, நுட்பமான, நாகரிகமான."
+    },
+    {
+        "word": "Apprehension",
+        "meaning": "Anxiety or fear about something that may happen; the act of understanding an idea; the arrest or capture of a suspected criminal.",
+        "context": "The meaning depends on usage. With apprehension means with worry, while the apprehension of a suspect means the suspect's arrest.",
+        "example": "She felt apprehension before presenting the proposal to senior management.",
+        "contextMeaning": "அச்சம், கவலை, தயக்கம்; புரிந்துகொள்ளுதல்; கைது செய்தல்."
+    },
+    {
+        "word": "Felled",
+        "meaning": "Cut down a tree; knocked someone or something down, especially with force.",
+        "context": "Used in forestry, storms, accidents, and descriptions of someone being defeated or brought down.",
+        "example": "Strong winds felled several trees along the road.",
+        "contextMeaning": "மரத்தை வெட்டி வீழ்த்தியது, கீழே சாய்த்தது, பலத்தால் வீழ்த்தியது."
+    },
+    {
+        "word": "Fierce",
+        "meaning": "Extremely intense, aggressive, powerful, or determined; showing great strength or hostility.",
+        "context": "Used to describe competition, storms, arguments, animals, fighting, or strong determination.",
+        "example": "The two companies are engaged in fierce competition for market share.",
+        "contextMeaning": "கடுமையான, தீவிரமான, மூர்க்கமான, உக்கிரமான."
+    },
+    {
+        "word": "Confrontation",
+        "meaning": "A direct encounter involving disagreement, opposition, or conflict; a situation in which opposing sides face each other.",
+        "context": "Used in politics, personal relationships, workplace disputes, and military situations.",
+        "example": "The manager arranged a meeting to resolve the confrontation between the two teams.",
+        "contextMeaning": "நேரடி மோதல், எதிர்கொள்ளுதல், கருத்து மோதல்."
+    },
+    {
+        "word": "Nemesis",
+        "meaning": "A source of downfall or punishment; a powerful rival or opponent who repeatedly causes difficulties.",
+        "context": "Used in literature, sports, politics, and everyday speech to describe a persistent enemy or recurring challenge.",
+        "example": "Poor communication became the project's nemesis, causing repeated delays.",
+        "contextMeaning": "அழிவுக்குக் காரணமானவர் அல்லது விஷயம், பரம எதிரி, தொடர்ந்து துன்பம் விளைவிக்கும் சவால்."
+    },
+    {
+        "word": "Functionaries",
+        "meaning": "People who hold official positions and perform administrative or organizational duties.",
+        "context": "Commonly used in government departments, political organizations, public institutions, and bureaucracies.",
+        "example": "Government functionaries inspected the site before approving the project.",
+        "contextMeaning": "அலுவலர்கள், அதிகாரிகள், நிர்வாகப் பணியாளர்கள்."
+    },
+    {
+        "word": "Inalienable",
+        "meaning": "Unable to be taken away, transferred, or surrendered; especially referring to fundamental rights.",
+        "context": "Commonly used in constitutional law, human rights, political philosophy, and discussions of individual freedoms.",
+        "example": "Freedom of conscience is considered an inalienable human right.",
+        "contextMeaning": "பறிக்க முடியாத, விட்டுக்கொடுக்க முடியாத, மாற்றித் தர முடியாத."
+    },
+    {
+        "word": "Incentive",
+        "meaning": "Something that motivates or encourages a person to take action; a reward or benefit offered to achieve a desired result.",
+        "context": "Used in employment, economics, business, education, and public policy.",
+        "example": "The company introduced a performance incentive to reward employees who met their targets.",
+        "contextMeaning": "ஊக்கத்தொகை, ஊக்குவிப்பு, ஊக்கக் காரணி, தூண்டுதல்."
+    },
+    {
+        "word": "Vindictive",
+        "meaning": "Having a strong desire to punish or hurt someone in return for a perceived wrong; seeking revenge.",
+        "context": "Used to describe behaviour, actions, or attitudes driven by resentment and a desire for revenge.",
+        "example": "The manager's vindictive behaviour damaged trust within the team.",
+        "contextMeaning": "பழிவாங்கும் குணமுடைய, வஞ்சம் தீர்க்க நினைக்கும், குரோதம் கொண்ட."
+    },
+    {
+        "word": "Ballistic",
+        "meaning": "Related to the motion of projectiles such as bullets; in informal usage, becoming extremely angry or losing emotional control.",
+        "context": "In science and defence, it refers to projectile motion or ballistics. In everyday English, go ballistic means to become extremely angry.",
+        "example": "The customer went ballistic when he discovered the unexpected charges.",
+        "contextMeaning": "எறிபொருளின் இயக்கம் தொடர்பான; (பேச்சுவழக்கில்) கடும் கோபமடைதல்."
+    },
+    {
+        "word": "Aggrieved",
+        "meaning": "Feeling that one has been treated unfairly or unjustly; having suffered a wrong or injury.",
+        "context": "Used in legal disputes, workplace grievances, public complaints, and disagreements over decisions.",
+        "example": "The aggrieved employee filed a formal complaint against the unfair dismissal.",
+        "contextMeaning": "அநீதி இழைக்கப்பட்ட, பாதிக்கப்பட்ட, மனக்குறை கொண்ட."
+    },
+    {
+        "word": "Overturned",
+        "meaning": "Turned upside down; reversed or invalidated a decision, judgment, or ruling.",
+        "context": "Used for vehicles and objects that have toppled, as well as legal decisions that are reversed by a higher authority.",
+        "example": "The higher court overturned the earlier judgment because of insufficient evidence.",
+        "contextMeaning": "கவிழ்க்கப்பட்ட, தலைகீழாக மாற்றப்பட்ட; தீர்ப்பு ரத்து செய்யப்பட்ட."
+    },
+    {
+        "word": "Tehsil",
+        "meaning": "An administrative subdivision of a district in India and some other South Asian countries, generally managed by a tehsildar and associated with land records and revenue administration.",
+        "context": "Used in Indian government administration, property registration, land revenue, and local governance. It is also spelled tahsil.",
+        "example": "She visited the tehsil office to obtain a copy of the land records.",
+        "contextMeaning": "வட்டம், மாவட்டத்திற்குக் கீழான நிர்வாகப் பிரிவு, வருவாய் நிர்வாகப் பகுதி."
+    },
+    {
+        "word": "Seize",
+        "meaning": "To take hold of something suddenly or forcefully; to take possession of property or assets using legal authority; to capture or take control of something; to act quickly on an opportunity.",
+        "context": "Used in law enforcement, business, emergencies, and expressions such as seize an opportunity.",
+        "example": "The authorities seized the illegal goods during the inspection.",
+        "contextMeaning": "கைப்பற்றுதல், பறிமுதல் செய்தல், பிடித்தல், வசப்படுத்துதல்; வாய்ப்பைப் பயன்படுத்துதல்."
+    },
+    {
+        "word": "Shelter",
+        "meaning": "A place that provides protection from danger, bad weather, or harm; to protect or give refuge to someone.",
+        "context": "Used in housing, disaster relief, wildlife protection, and situations where people need safety.",
+        "example": "The villagers took shelter in a school during the heavy rainfall.",
+        "contextMeaning": "தங்குமிடம், புகலிடம், பாதுகாப்பிடம்; பாதுகாத்தல்."
+    },
+    {
+        "word": "Imposing",
+        "meaning": "Impressive in appearance, size, or manner; commanding respect or attention; forcing something on someone.",
+        "context": "Used to describe large buildings, powerful personalities, or rules and demands placed on others.",
+        "example": "The imposing building dominated the city skyline.",
+        "contextMeaning": "கம்பீரமான, பிரம்மாண்டமான, மதிப்பை ஏற்படுத்தும்; திணிக்கின்ற."
+    },
+    {
+        "word": "Lauding",
+        "meaning": "Praising or expressing admiration for someone or something.",
+        "context": "Used in news reports, speeches, reviews, and public recognition of achievements.",
+        "example": "The CEO was lauding the engineers for resolving the critical production issue.",
+        "contextMeaning": "பாராட்டுதல், புகழ்தல், போற்றுதல்."
+    },
+    {
+        "word": "Sambar",
+        "meaning": "A South Indian lentil-based stew prepared with vegetables, tamarind, and spices. In another context, a sambar is a large deer species native to South and Southeast Asia.",
+        "context": "In Indian food and everyday conversation, sambar usually refers to the dish served with rice, idli, or dosa.",
+        "example": "We ate hot idlis with freshly prepared sambar for breakfast.",
+        "contextMeaning": "சாம்பார்; (விலங்கு) சாம்பார் மான்."
+    },
+    {
+        "word": "Edible",
+        "meaning": "Safe or suitable to be eaten.",
+        "context": "Used to distinguish food-safe items from poisonous, harmful, or inedible substances.",
+        "example": "Make sure the mushrooms are edible before cooking them.",
+        "contextMeaning": "உண்ணக்கூடிய, உணவாகப் பயன்படுத்தத் தகுந்த."
+    },
+    {
+        "word": "Rivals",
+        "meaning": "People, teams, or organizations competing against one another; competitors seeking the same goal or advantage.",
+        "context": "Used in business, sports, politics, and professional competition.",
+        "example": "The two technology companies are rivals in the cloud computing market.",
+        "contextMeaning": "போட்டியாளர்கள், எதிர் போட்டியாளர்கள், போட்டி நிறுவனங்கள்."
+    },
+    {
+        "word": "Subsidence",
+        "meaning": "The gradual sinking or settling of the ground; a reduction in the intensity of something such as a storm, fever, or swelling.",
+        "context": "Commonly used in geology, construction, and environmental studies. It can also describe symptoms or conditions becoming less severe.",
+        "example": "The engineers inspected the building for cracks caused by ground subsidence.",
+        "contextMeaning": "நிலம் தாழ்தல், மண் உள்வாங்குதல், படிப்படியாகக் குறைதல், தணிதல்."
+    },
+    {
+        "word": "Grasper",
+        "meaning": "A person or thing that grasps or holds something; a tool or device designed to grip objects. In informal usage, a quick learner may be described as someone who grasps concepts quickly.",
+        "context": "Used in mechanical devices, robotics, and descriptions of gripping tools. The intended meaning may depend on the sentence.",
+        "example": "The robotic grasper picked up the small metal component without damaging it.",
+        "contextMeaning": "பற்றிப் பிடிப்பவர், பிடிக்கும் கருவி, பற்றிப்பிடிக்கும் சாதனம்."
+    },
+    {
+        "word": "Snarls",
+        "meaning": "Makes an angry, threatening growling sound; becomes tangled or obstructed; causes traffic congestion or complicated problems.",
+        "context": "Used to describe an angry animal, tangled wires, traffic jams, or complicated administrative situations.",
+        "example": "A road accident snarls traffic during the morning rush hour.",
+        "contextMeaning": "உறுமுகிறது; சிக்கலாக்குகிறது; போக்குவரத்தை முடக்குகிறது; சிக்கல்களை உருவாக்குகிறது."
+    },
+    {
+        "word": "Disseminating",
+        "meaning": "Spreading or distributing information, knowledge, ideas, or material widely among people.",
+        "context": "Used in journalism, education, public health, research, and organizational communication.",
+        "example": "The government is disseminating information about the new safety regulations.",
+        "contextMeaning": "பரப்புதல், பரவச் செய்தல், தகவல்களைப் பகிர்ந்தளித்தல்."
+    },
+    {
+        "word": "Bolster",
+        "meaning": "To support, strengthen, or improve something; a long pillow used for support.",
+        "context": "Commonly used in business, confidence-building, security, arguments, and financial support.",
+        "example": "The additional evidence helped bolster the team's argument.",
+        "contextMeaning": "வலுப்படுத்துதல், ஆதரித்தல், உறுதிப்படுத்துதல்; நீளமான தலையணை."
+    },
+    {
+        "word": "Adjourned",
+        "meaning": "Suspended or postponed a meeting, court session, or formal proceeding until a later time.",
+        "context": "Used in courts, legislative assemblies, committee meetings, and official proceedings.",
+        "example": "The judge adjourned the hearing until the following Monday.",
+        "contextMeaning": "ஒத்திவைக்கப்பட்டது, கூட்டம் தற்காலிகமாக நிறுத்தப்பட்டது."
+    },
+    {
+        "word": "Proprietorship",
+        "meaning": "The state of owning something; a business owned and controlled by one individual, commonly called a sole proprietorship.",
+        "context": "Used in business registration, taxation, accounting, and legal discussions about ownership.",
+        "example": "She registered a sole proprietorship to operate her consulting business.",
+        "contextMeaning": "உரிமையுடைமை, தனிநபர் வணிக உரிமை, தனியுரிமை வணிக அமைப்பு."
+    },
+    {
+        "word": "Dampening",
+        "meaning": "Reducing the intensity, strength, or enthusiasm of something; making something slightly wet or less dry.",
+        "context": "Used for emotions, enthusiasm, economic growth, vibrations, and physical moisture.",
+        "example": "The unexpected expenses were dampening the team's enthusiasm for the project.",
+        "contextMeaning": "குறைத்தல், தணித்தல், உற்சாகத்தைக் குறைத்தல், ஈரப்படுத்துதல்."
+    },
+    {
+        "word": "Programme",
+        "meaning": "A planned series of activities or events; an organized initiative to achieve a goal; a broadcast on television or radio; a set of computer instructions.",
+        "context": "Commonly used in British and Indian English for educational programmes, government schemes, events, and broadcasts. In computing, program is also widely used.",
+        "example": "The company launched a training programme to improve employees' technical skills.",
+        "contextMeaning": "திட்டம், நிகழ்ச்சித் தொடர், பயிற்சித் திட்டம், செயல்திட்டம்."
+    },
+    {
+        "word": "Tactical",
+        "meaning": "Related to specific actions or methods used to achieve an immediate or short-term objective; carefully planned for a particular situation.",
+        "context": "Used in military operations, sports, negotiations, business, and incident management.",
+        "example": "The team made a tactical decision to roll back the release and restore service quickly.",
+        "contextMeaning": "தந்திரோபாயமான, சூழ்நிலைக்கேற்ற செயல்திட்டம் சார்ந்த, உடனடி இலக்கை அடையத் திட்டமிடப்பட்ட."
+    },
+    {
+        "word": "Reforms",
+        "meaning": "Changes introduced to improve a system, institution, law, or practice; actions that correct problems or inefficiencies.",
+        "context": "Used in government, education, healthcare, economics, and organizational management.",
+        "example": "The government introduced reforms to simplify the tax system.",
+        "contextMeaning": "சீர்திருத்தங்கள், மேம்பாட்டு மாற்றங்கள், குறைகளைத் திருத்தும் நடவடிக்கைகள்."
+    },
+    {
+        "word": "Amid",
+        "meaning": "In the middle of; during; surrounded by something or while something is happening.",
+        "context": "Used to describe events occurring during difficult, busy, or changing circumstances.",
+        "example": "The company continued its expansion amid economic uncertainty.",
+        "contextMeaning": "மத்தியில், இடையே, ஒரு சூழ்நிலை நிலவும்போது."
+    },
+    {
+        "word": "Amendment",
+        "meaning": "A formal change or addition made to a law, document, agreement, or proposal.",
+        "context": "Used in legislation, contracts, constitutions, policies, and official records.",
+        "example": "Parliament approved an amendment to the existing law.",
+        "contextMeaning": "திருத்தம், திருத்தச் சேர்க்கை, சட்டத் திருத்தம்."
+    },
+    {
+        "word": "Capillary",
+        "meaning": "A very small blood vessel connecting tiny arteries and veins; a narrow tube or passage through which liquid can move by capillary action.",
+        "context": "Used in biology, medicine, physics, and engineering. Capillary action allows liquids to move through narrow spaces, sometimes against gravity.",
+        "example": "Water travels through the tiny pores of the soil by capillary action.",
+        "contextMeaning": "நுண்ணிய இரத்தக் குழாய்; நுண்குழாய்; தந்துகிச் செயலால் திரவம் நகரும் பாதை."
+    },
+    {
+        "word": "Bail out",
+        "meaning": "To rescue someone from a difficult situation; to provide financial assistance to a failing business; to leave a situation or activity before it is completed. In law, to bail someone out means to release them from custody by paying bail.",
+        "context": "Used in finance, business, emergencies, and legal situations.",
+        "example": "The government decided to bail out the struggling bank to prevent its collapse.",
+        "contextMeaning": "காப்பாற்றுதல், நெருக்கடியிலிருந்து மீட்டல், நிதியுதவி அளித்தல்; பிணையைச் செலுத்தி விடுதலை செய்தல்."
+    },
+    {
+        "word": "Manuscript",
+        "meaning": "A handwritten or typed document, especially one prepared for publication; an author's original text submitted to a publisher.",
+        "context": "Used in literature, publishing, historical research, and academic writing.",
+        "example": "The author submitted the completed manuscript to the publisher.",
+        "contextMeaning": "கையெழுத்துப் பிரதி, மூலக் கையெழுத்து ஆவணம், வெளியீட்டிற்கான மூலப் பிரதியாக தயாரிக்கப்பட்ட எழுதப்பட்ட படைப்பு."
+    },
+    {
+        "word": "Rain-marred",
+        "meaning": "Spoiled, disrupted, or negatively affected by rain.",
+        "context": "Commonly used in sports reports, outdoor events, ceremonies, and travel descriptions.",
+        "example": "India won the rain-marred match by a narrow margin.",
+        "contextMeaning": "மழையால் பாதிக்கப்பட்ட, மழையால் கெடுக்கப்பட்ட, மழையால் தடைபட்ட."
+    },
+    {
+        "word": "Embrace",
+        "meaning": "To hold someone closely in one's arms; to accept an idea, opportunity, or change willingly; to include or cover something.",
+        "context": "Used in personal relationships, leadership, technology adoption, and discussions about accepting change.",
+        "example": "Successful engineers embrace new technologies and continuously improve their skills.",
+        "contextMeaning": "அணைத்துக்கொள்ளுதல், ஏற்றுக்கொள்ளுதல், தழுவுதல், உள்ளடக்குதல்."
+    },
+    {
+        "word": "Euphemism",
+        "meaning": "A mild or indirect expression used instead of a word or phrase considered harsh, unpleasant, embarrassing, or offensive.",
+        "context": "Used in polite conversation, politics, journalism, and discussions of sensitive subjects.",
+        "example": "The phrase 'passed away' is a euphemism for 'died.'",
+        "contextMeaning": "மென்மையான மாற்றுச் சொல், நயமான மறைமுகச் சொல், கடுமையான கருத்தை மென்மையாகச் சொல்லுதல்."
+    },
+    {
+        "word": "Immense",
+        "meaning": "Extremely large in size, amount, degree, or importance; enormous.",
+        "context": "Used to describe wealth, pressure, opportunities, benefits, distances, or achievements.",
+        "example": "The team put in immense effort to restore the application after the outage.",
+        "contextMeaning": "மிகப்பெரிய, அளவற்ற, பிரம்மாண்டமான, மிகுந்த."
+    },
+    {
+        "word": "Heptathlete",
+        "meaning": "An athlete who competes in the heptathlon, a track-and-field competition consisting of seven events.",
+        "context": "Used in athletics and Olympic sports reporting. The women's outdoor heptathlon typically includes seven running, jumping, and throwing events.",
+        "example": "The heptathlete performed consistently across all seven events to win the competition.",
+        "contextMeaning": "ஏழு தடகளப் போட்டிகளில் பங்கேற்கும் வீராங்கனை அல்லது வீரர்; ஏழுபோட்டி வீரர்."
+    },
+    {
+        "word": "Lay",
+        "meaning": "To put or place something down; to set something in position; to establish or prepare something. As an adjective, it can mean non-professional or not belonging to the clergy.",
+        "context": "Used in everyday speech and expressions such as lay the foundation, lay the table, and lay down rules. Do not confuse lay (put something down) with lie (recline).",
+        "example": "The engineers laid the foundation for a more reliable infrastructure system.",
+        "contextMeaning": "வைத்தல், இடுதல், அமைத்தல், அடித்தளம் அமைத்தல்; (பெயரடை) தொழில்முறை சாராத."
+    },
+    {
+        "word": "Heed",
+        "meaning": "To pay attention to advice, warnings, or instructions and act accordingly; careful attention.",
+        "context": "Often used in expressions such as heed a warning, heed advice, and pay heed.",
+        "example": "Drivers should heed warnings about dangerous road conditions.",
+        "contextMeaning": "கவனித்தல், அறிவுரைக்குச் செவிசாய்த்தல், எச்சரிக்கையைப் பின்பற்றுதல்."
+    },
+    {
+        "word": "Dripping",
+        "meaning": "Falling or allowing liquid to fall in small drops; extremely wet; informal British usage for something excellent or stylish in certain expressions.",
+        "context": "Used to describe wet clothes, leaking taps, rain-soaked objects, or liquid falling from a surface.",
+        "example": "He came inside dripping wet after walking through the heavy rain.",
+        "contextMeaning": "சொட்டிக்கொண்டிருக்கும், நீர் சொட்டும், முழுவதும் நனைந்த."
+    },
+    {
+        "word": "Epidemic",
+        "meaning": "A rapid spread of a disease among many people in a particular community or region; a widespread occurrence of a harmful or undesirable phenomenon.",
+        "context": "Used in public health and, figuratively, to describe widespread problems such as fraud or substance abuse.",
+        "example": "Health officials launched an awareness campaign to control the epidemic.",
+        "contextMeaning": "தொற்றுநோய் பரவல், கொள்ளைநோய்; பரவலாக அதிகரிக்கும் தீய நிகழ்வு."
+    },
+    {
+        "word": "Nightmare",
+        "meaning": "A frightening or disturbing dream; an extremely unpleasant, stressful, or difficult experience.",
+        "context": "Used for sleep-related experiences and difficult situations involving work, travel, technology, or personal life.",
+        "example": "The unexpected database failure turned the product launch into a nightmare.",
+        "contextMeaning": "திகிலூட்டும் கனவு, கெட்ட கனவு, மிகுந்த சிரமமான அனுபவம்."
+    },
+    {
+        "word": "Calligraphy",
+        "meaning": "The art of producing beautiful, decorative, or skillful handwriting.",
+        "context": "Used in traditional writing, invitations, certificates, religious texts, and artistic lettering.",
+        "example": "She learned Tamil calligraphy to create beautiful handwritten invitations.",
+        "contextMeaning": "அழகெழுத்துக் கலை, கையெழுத்து அலங்காரக் கலை."
+    },
+    {
+        "word": "Livestock",
+        "meaning": "Farm animals raised for agricultural purposes, such as cattle, sheep, goats, and pigs.",
+        "context": "Used in farming, animal husbandry, dairy production, meat production, and rural economics.",
+        "example": "Farmers moved their livestock to higher ground before the flood arrived.",
+        "contextMeaning": "கால்நடைகள், பண்ணை விலங்குகள், வளர்ப்பு விலங்குகள்."
+    },
+    {
+        "word": "Stemming",
+        "meaning": "Originating from or being caused by something; stopping or restricting the flow or spread of something. The meaning depends on whether it appears in 'stemming from' or 'stemming the tide'.",
+        "context": "Used to explain the cause of a problem or describe efforts to control damage, losses, or the spread of a situation.",
+        "example": "The delays were stemming from a lack of coordination between teams.",
+        "contextMeaning": "காரணமாக உருவாகுதல், இருந்து தோன்றுதல்; தடுத்தல், கட்டுப்படுத்துதல்."
+    },
+    {
+        "word": "Redacted",
+        "meaning": "Edited a document to remove or conceal sensitive, confidential, or legally restricted information; prepared a document for publication.",
+        "context": "Commonly used in government documents, court records, investigation reports, and data privacy.",
+        "example": "The company shared a redacted report that concealed customers' personal information.",
+        "contextMeaning": "ரகசியத் தகவல்கள் மறைக்கப்பட்ட, முக்கியத் தகவல்கள் நீக்கப்பட்ட, திருத்தப்பட்ட."
+    },
+    {
+        "word": "Latter",
+        "meaning": "The second of two people or things previously mentioned; nearer to the end of a period.",
+        "context": "Used to distinguish between two options. For example, in 'tea and coffee, I prefer the latter,' latter refers to coffee.",
+        "example": "We considered AWS and Azure, but chose the latter for this project.",
+        "contextMeaning": "இரண்டாவதாகக் குறிப்பிடப்பட்ட, பிந்தைய, இறுதிப் பகுதியில் உள்ள."
+    },
+    {
+        "word": "Dissent",
+        "meaning": "Disagreement with an opinion, decision, policy, or majority view; to express such disagreement.",
+        "context": "Used in politics, law, public debate, and organizational decision-making. A dissenting opinion is a judge's disagreement with the majority decision.",
+        "example": "Several committee members expressed dissent over the proposed policy.",
+        "contextMeaning": "கருத்து வேறுபாடு, எதிர்ப்பு, மாறுபட்ட கருத்தைத் தெரிவித்தல்."
+    },
+    {
+        "word": "Betel",
+        "meaning": "A tropical climbing plant whose leaves are traditionally chewed in parts of South and Southeast Asia, often with areca nut and other ingredients.",
+        "context": "Used in Indian cultural traditions, ceremonies, and descriptions of paan or betel leaves.",
+        "example": "Betel leaves are traditionally offered during some ceremonies in India.",
+        "contextMeaning": "வெற்றிலை."
+    },
+    {
+        "word": "Expeditiously",
+        "meaning": "Quickly and efficiently, without unnecessary delay.",
+        "context": "Commonly used in formal, legal, administrative, and professional communication to indicate that something should be handled promptly.",
+        "example": "The support team resolved the critical security issue expeditiously.",
+        "contextMeaning": "விரைவாக, தாமதமின்றி, உடனடியாகவும் திறமையாகவும்."
+    },
+    {
+        "word": "Enlightenment",
+        "meaning": "The state of gaining deep understanding or knowledge; freedom from ignorance or misunderstanding; a period in European history emphasizing reason and scientific thought.",
+        "context": "Used in education, philosophy, spirituality, and history.",
+        "example": "Reading widely can lead to enlightenment and a better understanding of the world.",
+        "contextMeaning": "அறிவொளி, ஞானம், தெளிவான புரிதல், அறியாமையிலிருந்து விடுபடுதல்."
+    },
+    {
+        "word": "Slammed",
+        "meaning": "Shut, hit, or struck something with great force; strongly criticized; extremely busy or overloaded.",
+        "context": "Used in news, sports, workplace conversations, and informal English. For example, 'I am slammed with work' means having too much work.",
+        "example": "The support team was slammed with requests after the service outage.",
+        "contextMeaning": "பலமாக அடித்தார், வேகமாக மூடினார், கடுமையாக விமர்சித்தார், வேலையில் அதிக சுமை."
+    },
+    {
+        "word": "Prevailing",
+        "meaning": "Existing or happening generally at a particular time; most common or widespread; winning or proving stronger.",
+        "context": "Used in discussions about prevailing conditions, opinions, trends, winds, and customs.",
+        "example": "The team adapted its strategy to the prevailing market conditions.",
+        "contextMeaning": "நிலவும், நடைமுறையில் உள்ள, பரவலாகக் காணப்படும், மேலோங்கிய."
+    },
+    {
+        "word": "Jurisdiction",
+        "meaning": "The official authority to make legal decisions or enforce laws; the geographical area or subject over which that authority applies.",
+        "context": "Used in law, government administration, courts, policing, and regulatory matters.",
+        "example": "The case was transferred to a court with the appropriate jurisdiction.",
+        "contextMeaning": "அதிகார வரம்பு, நீதிமன்ற அதிகார எல்லை, சட்ட அதிகாரம்."
+    },
+    {
+        "word": "Idempotent",
+        "meaning": "Describes an operation that produces the same result when performed repeatedly under the same conditions as when performed once.",
+        "context": "Commonly used in software engineering, distributed systems, APIs, databases, and infrastructure automation. For example, an idempotent HTTP PUT request can be repeated without changing the state.",
+        "example": "The deployment script is idempotent, so running it multiple times does not create duplicate resources.",
+        "contextMeaning": "மீண்டும் மீண்டும் செயல்படுத்தினாலும் இறுதி நிலை மாறாத, ஒரே இறுதி முடிவு."
+    },
+    {
+        "word": "Workforce",
+        "meaning": "The total number of people employed by an organization or available to work in a particular economy or industry.",
+        "context": "Used in human resources, business planning, economics, and discussions about employment and skills.",
+        "example": "The company is training its workforce to use AI tools effectively.",
+        "contextMeaning": "பணியாளர் குழு, தொழிலாளர் படை, வேலைவாய்ப்பில் உள்ள மக்கள் தொகுதி."
+    },
+    {
+        "word": "Crackdown",
+        "meaning": "Strong or severe action taken by authorities to stop illegal activities, rule-breaking, or unwanted behaviour.",
+        "context": "Used in law enforcement, government policy, cybersecurity, and regulatory investigations.",
+        "example": "The authorities launched a crackdown on online financial fraud.",
+        "contextMeaning": "கடுமையான நடவடிக்கை, ஒடுக்குதல் நடவடிக்கை, சட்டவிரோதச் செயல்களுக்கு எதிரான கடுமையான நடவடிக்கை."
+    },
+    {
+        "word": "Heritage",
+        "meaning": "Traditions, culture, historical places, and values passed down from previous generations; property or assets inherited from ancestors.",
+        "context": "Used in history, architecture, culture, family traditions, and inheritance.",
+        "example": "The city is working to preserve its cultural heritage for future generations.",
+        "contextMeaning": "பாரம்பரியம், மரபுச் செல்வம், பண்பாட்டு மரபு, பரம்பரைச் சொத்து."
+    },
+    {
+        "word": "Stardom",
+        "meaning": "The state of being a famous and celebrated performer, entertainer, or public figure.",
+        "context": "Used in cinema, music, sports, and celebrity culture.",
+        "example": "The actor rose to stardom after the success of his first major film.",
+        "contextMeaning": "நட்சத்திரப் புகழ், பிரபல நிலை, புகழின் உச்சநிலை."
+    },
+    {
+        "word": "Appeasement",
+        "meaning": "The act of calming or satisfying someone by making concessions; a policy of giving in to demands to avoid conflict.",
+        "context": "Used in politics, diplomacy, negotiations, and personal relationships. In historical discussions, it often refers to concessions made to an aggressive power to prevent war.",
+        "example": "The leaders debated whether the agreement was a practical compromise or an act of appeasement.",
+        "contextMeaning": "சமாதானப்படுத்துதல், இணங்கிச் செயல்படுதல், மோதலைத் தவிர்க்கச் சலுகை கொடுத்தல்."
+    },
+    {
+        "word": "Duly",
+        "meaning": "Properly, correctly, or in accordance with what is required; at the appropriate time.",
+        "context": "Frequently used in formal, legal, and administrative English, as in duly signed, duly authorized, and duly noted.",
+        "example": "The agreement was duly signed by both parties.",
+        "contextMeaning": "முறையாக, விதிமுறைப்படி, உரிய வகையில், தகுந்த நேரத்தில்."
+    },
+    {
+        "word": "Chalking",
+        "meaning": "Marking or writing something with chalk; informally, attributing something to a particular cause or person, as in 'chalking it up to experience'; planning or recording something, as in 'chalking it on a board'.",
+        "context": "Used in education, sports, planning, and everyday expressions.",
+        "example": "The coach was chalking the team's defeat up to a lack of preparation.",
+        "contextMeaning": "சுண்ணக்கட்டியால் எழுதுதல் அல்லது குறித்தல்; ஒரு காரணத்திற்குக் காரணம் கூறுதல்."
+    },
+    {
+        "word": "Grind",
+        "meaning": "To crush something into small particles or powder; to work hard for a long time; repetitive, tiring work or routine.",
+        "context": "Used in cooking, manufacturing, careers, studying, and informal expressions such as the daily grind.",
+        "example": "She continued the daily grind of studying and working until she passed the examination.",
+        "contextMeaning": "அரைத்தல், பொடியாக்குதல்; கடுமையாக உழைத்தல்; சலிப்பூட்டும் தொடர்ச்சியான வேலை."
+    },
+    {
+        "word": "Cassette",
+        "meaning": "A small container holding magnetic tape or another medium used to record and play audio or video; a removable cartridge used in certain devices.",
+        "context": "Most commonly associated with audio cassettes and video cassettes, especially in discussions of older recording technology.",
+        "example": "My father used to listen to Tamil songs on an audio cassette.",
+        "contextMeaning": "ஒலிநாடா, கேசட், பதிவு நாடா."
+    },
+    {
+        "word": "Tedious",
+        "meaning": "Long, repetitive, and boring; requiring considerable time and effort because of its repetitive nature.",
+        "context": "Used to describe paperwork, manual data entry, repetitive tasks, and lengthy processes.",
+        "example": "Manually checking thousands of log entries is a tedious task.",
+        "contextMeaning": "சலிப்பூட்டும், அலுப்பான, நீண்ட நேரம் எடுக்கும், ஒரே மாதிரியாகத் தொடரும்."
+    },
+    {
+        "word": "Dived",
+        "meaning": "Entered water headfirst or jumped into water; moved quickly downward; investigated or engaged deeply in a subject.",
+        "context": "Used in swimming, sports, physical movement, and expressions such as 'dived into the details.' Dived is standard English; dove is also common, particularly in American English.",
+        "example": "The engineer dived into the logs to identify the cause of the outage.",
+        "contextMeaning": "நீரில் மூழ்கினார், குதித்தார், வேகமாகக் கீழிறங்கினார்; ஆழமாக ஆராய்ந்தார்."
+    },
+    {
+        "word": "Indigenous",
+        "meaning": "Originating naturally in a particular place; native to a region; relating to the original inhabitants of a place.",
+        "context": "Used in discussions of Indigenous communities, local plants and animals, traditional knowledge, and domestically developed technology.",
+        "example": "The researchers studied indigenous plants that grow naturally in the region.",
+        "contextMeaning": "பூர்வீகமான, அந்தப் பகுதியைச் சேர்ந்த, உள்ளூரில் இயற்கையாக உருவான, பழங்குடி."
+    },
+    {
+        "word": "Adulteration",
+        "meaning": "The act of making something impure or inferior by adding unauthorized, harmful, or lower-quality substances.",
+        "context": "Commonly used in food safety, pharmaceuticals, fuel quality, and product regulation.",
+        "example": "Food inspectors discovered the adulteration of milk with prohibited substances.",
+        "contextMeaning": "கலப்படம், தூய்மையற்ற பொருட்களைக் கலந்து தரத்தைக் குறைத்தல், கலப்படம் செய்தல்."
+    },
+    {
+        "word": "Digest",
+        "meaning": "To break down food in the body; to understand and process information; a concise summary of important information.",
+        "context": "Used in biology, learning, reading, and media. For example, 'digest the information' means to think about it carefully until it is understood.",
+        "example": "Take some time to digest the technical details before making a decision.",
+        "contextMeaning": "செரித்தல், தகவலைப் புரிந்துகொண்டு சிந்தித்தல்; சுருக்கத் தொகுப்பு."
+    },
+    {
+        "word": "Derailed",
+        "meaning": "Caused a train to leave its tracks; disrupted or prevented a plan, project, or process from proceeding as intended.",
+        "context": "Used literally in railway accidents and figuratively in business, politics, careers, and project management.",
+        "example": "Unexpected infrastructure problems derailed the planned software release.",
+        "contextMeaning": "தண்டவாளத்தை விட்டு விலகியது; திட்டத்தைத் தடம்புரளச் செய்தது; திட்டம் சீர்குலைந்தது."
+    },
+    {
+        "word": "Fondly",
+        "meaning": "With affection or love; with warm and pleasant memories.",
+        "context": "Used when expressing affection for someone or remembering past experiences positively.",
+        "example": "She fondly remembers her childhood days.",
+        "contextMeaning": "அன்புடன், பாசத்துடன், அன்பான நினைவுகளுடன்."
+    },
+    {
+        "word": "Snag",
+        "meaning": "An unexpected problem or difficulty; to catch or tear on something.",
+        "context": "Used when a plan encounters an unexpected obstacle or delay.",
+        "example": "We encountered a snag while deploying the application.",
+        "contextMeaning": "எதிர்பாராத சிக்கல், இடையூறு; சிக்கிக்கொள்ளுதல்."
+    },
+    {
+        "word": "Drizzle",
+        "meaning": "Light rain falling in very small drops; to pour a liquid in a thin stream.",
+        "context": "Used in weather reports and cooking.",
+        "example": "A light drizzle began before the evening meeting.",
+        "contextMeaning": "மின்னல் போன்ற மழை, சிறிய சொட்டுகள் விழுதல்; மெல்ல மெல்ல ஊற்றுதல்."
+    }
+]
