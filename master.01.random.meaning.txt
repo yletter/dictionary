@@ -699,5 +699,866 @@
 - Example sentence: Water travels through the tiny pores of the soil by capillary action.
 - Tamil meaning: நுண்ணிய இரத்தக் குழாய்; நுண்குழாய்; தந்துகிச் செயலால் திரவம் நகரும் நிகழ்வு.
 
+\- Bail out
 
+- Meanings: To rescue someone from a difficult situation; to provide financial assistance to a failing business; to leave a situation or activity before it is completed. In law, to bail someone out can mean to secure their release from custody by providing bail.
+- Context: Used in finance, business, emergencies, and legal situations.
+- Example sentence: The government decided to bail out the struggling bank to prevent its collapse.
+- Tamil meaning: காப்பாற்றுதல், நெருக்கடியிலிருந்து மீட்டல், நிதியுதவி அளித்தல்; பிணையில் விடுவித்தல்.
+
+\- Manuscript
+
+- Meanings: A handwritten or typed document, especially one prepared for publication; an author's original text submitted to a publisher.
+- Context: Used in literature, publishing, historical research, and academic writing.
+- Example sentence: The author submitted the completed manuscript to the publisher.
+- Tamil meaning: கையெழுத்துப் பிரதி, மூலக் கையெழுத்து ஆவணம், வெளியீட்டிற்கான மூலப் பிரதி.
+
+\- Rain-marred
+
+- Meanings: Spoiled, disrupted, or negatively affected by rain.
+- Context: Commonly used in sports reports, outdoor events, ceremonies, and travel descriptions.
+- Example sentence: India won the rain-marred match by a narrow margin.
+- Tamil meaning: மழையால் பாதிக்கப்பட்ட, மழையால் கெடுக்கப்பட்ட, மழையால் தடைபட்ட.
+
+\- Embrace
+
+- Meanings: To hold someone closely in one's arms; to accept an idea, opportunity, or change willingly; to include or cover something.
+- Context: Used in personal relationships, leadership, technology adoption, and discussions about accepting change.
+- Example sentence: Successful engineers embrace new technologies and continuously improve their skills.
+- Tamil meaning: அணைத்துக்கொள்ளுதல், ஏற்றுக்கொள்ளுதல், தழுவுதல், உள்ளடக்குதல்.
+
+\- Euphemism
+
+- Meanings: A mild or indirect expression used instead of a word or phrase considered harsh, unpleasant, embarrassing, or offensive.
+- Context: Used in polite conversation, politics, journalism, and discussions of sensitive subjects.
+- Example sentence: The phrase "passed away" is a euphemism for "died."
+- Tamil meaning: மென்மையான மாற்றுச் சொல், நயமான மறைமுகச் சொல், கடுமையான கருத்தை மென்மையாகக் கூறும் சொல்.
+
+\- Immense
+
+- Meanings: Extremely large in size, amount, degree, or importance; enormous.
+- Context: Used to describe wealth, pressure, opportunities, benefits, distances, or achievements.
+- Example sentence: The team put in immense effort to restore the application after the outage.
+- Tamil meaning: மிகப்பெரிய, அளவற்ற, பிரம்மாண்டமான, மிகுந்த.
+
+\- Heptathlete
+
+- Meanings: An athlete who competes in the heptathlon, a track-and-field competition consisting of seven events.
+- Context: Used in athletics and Olympic sports reporting. The women's outdoor heptathlon typically includes seven running, jumping, and throwing events.
+- Example sentence: The heptathlete performed consistently across all seven events to win the competition.
+- Tamil meaning: ஏழு தடகளப் போட்டிகளில் பங்கேற்கும் வீராங்கனை அல்லது வீரர்; ஏழுபோட்டித் தடகள வீரர்.
+
+\- Lay
+
+- Meanings: To put or place something down; to set something in position; to establish or prepare something. As an adjective, it can mean non-professional or not belonging to the clergy.
+- Context: Used in everyday speech and expressions such as lay the foundation, lay the table, and lay down rules. Do not confuse lay (put something down) with lie (recline).
+- Example sentence: The engineers laid the foundation for a more reliable infrastructure system.
+- Tamil meaning: வைத்தல், இடுதல், அமைத்தல், அடித்தளம் அமைத்தல்; (பெயரடை) தொழில்முறை சாராத, மதகுரு அல்லாத.
+
+\- Heed
+
+- Meanings: To pay attention to advice, warnings, or instructions and act accordingly; careful attention.
+- Context: Often used in expressions such as heed a warning, heed advice, and pay heed.
+- Example sentence: Drivers should heed warnings about dangerous road conditions.
+- Tamil meaning: கவனித்தல், அறிவுரைக்குச் செவிசாய்த்தல், எச்சரிக்கையைப் பின்பற்றுதல்.
+
+\- Dripping
+
+- Meanings: Falling or allowing liquid to fall in small drops; extremely wet; informal British usage for something excellent or stylish in certain expressions.
+- Context: Used to describe wet clothes, leaking taps, rain-soaked objects, or liquid falling from a surface.
+- Example sentence: He came inside dripping wet after walking through the heavy rain.
+- Tamil meaning: சொட்டிக்கொண்டிருக்கும், நீர் சொட்டும், முழுவதும் நனைந்த.
+
+\- Epidemic
+
+- Meanings: A rapid spread of a disease among many people in a particular community or region; a widespread occurrence of a harmful or undesirable phenomenon.
+- Context: Used in public health and, figuratively, to describe widespread problems such as fraud or substance abuse.
+- Example sentence: Health officials launched an awareness campaign to control the epidemic.
+- Tamil meaning: தொற்றுநோய் பரவல், கொள்ளைநோய்; பரவலாக அதிகரிக்கும் தீய நிகழ்வு.
+
+\- Nightmare
+
+- Meanings: A frightening or disturbing dream; an extremely unpleasant, stressful, or difficult experience.
+- Context: Used for sleep-related experiences and difficult situations involving work, travel, technology, or personal life.
+- Example sentence: The unexpected database failure turned the product launch into a nightmare.
+- Tamil meaning: திகிலூட்டும் கனவு, கெட்ட கனவு, மிகுந்த சிரமமான அனுபவம்.
+
+\- Calligraphy
+
+- Meanings: The art of producing beautiful, decorative, or skillful handwriting.
+- Context: Used in traditional writing, invitations, certificates, religious texts, and artistic lettering.
+- Example sentence: She learned Tamil calligraphy to create beautiful handwritten invitations.
+- Tamil meaning: அழகெழுத்துக் கலை, கையெழுத்து அலங்காரக் கலை.
+
+\- Livestock
+
+- Meanings: Farm animals raised for agricultural purposes, such as cattle, sheep, goats, and pigs.
+- Context: Used in farming, animal husbandry, dairy production, meat production, and rural economics.
+- Example sentence: Farmers moved their livestock to higher ground before the flood arrived.
+- Tamil meaning: கால்நடைகள், பண்ணை விலங்குகள், வளர்ப்பு விலங்குகள்.
+
+\- Stemming
+
+- Meanings: Originating from or being caused by something; stopping or restricting the flow or spread of something. The meaning depends on whether it appears in stemming from or stemming the tide.
+- Context: Used to explain the cause of a problem or describe efforts to control damage, losses, or the spread of a situation.
+- Example sentence: The delays were stemming from a lack of coordination between teams.
+- Tamil meaning: காரணமாக உருவாகுதல், இருந்து தோன்றுதல்; தடுத்தல், கட்டுப்படுத்துதல்.
+
+\- Redacted
+
+- Meanings: Edited a document to remove or conceal sensitive, confidential, or legally restricted information; prepared a document for publication.
+- Context: Commonly used in government documents, court records, investigation reports, and data privacy.
+- Example sentence: The company shared a redacted report that concealed customers' personal information.
+- Tamil meaning: ரகசியத் தகவல்கள் மறைக்கப்பட்ட, முக்கியத் தகவல்கள் நீக்கப்பட்ட, திருத்தி வெளியிடப்பட்ட.
+
+\- Latter
+
+- Meanings: The second of two people or things previously mentioned; nearer to the end of a period.
+- Context: Used to distinguish between two options. For example, in "tea and coffee, I prefer the latter," latter refers to coffee.
+- Example sentence: We considered AWS and Azure, but chose the latter for this project.
+- Tamil meaning: இரண்டாவதாகக் குறிப்பிடப்பட்ட, பிந்தைய, இறுதிப் பகுதியில் உள்ள.
+
+\- Dissent
+
+- Meanings: Disagreement with an opinion, decision, policy, or majority view; to express such disagreement.
+- Context: Used in politics, law, public debate, and organizational decision-making. A dissenting opinion is a judge's disagreement with the majority decision.
+- Example sentence: Several committee members expressed dissent over the proposed policy.
+- Tamil meaning: கருத்து வேறுபாடு, எதிர்ப்பு, மாறுபட்ட கருத்தைத் தெரிவித்தல்.
+
+\- Betel
+
+- Meanings: A tropical climbing plant whose leaves are traditionally chewed in parts of South and Southeast Asia, often with areca nut and other ingredients.
+- Context: Used in Indian cultural traditions, ceremonies, and descriptions of paan or betel leaves.
+- Example sentence: Betel leaves are traditionally offered during some ceremonies in India.
+- Tamil meaning: வெற்றிலை.
+- Note: Betel leaf is different from areca nut, commonly called பாக்கு in Tamil.
+
+\- Expeditiously
+
+- Meanings: Quickly and efficiently, without unnecessary delay.
+- Context: Commonly used in formal, legal, administrative, and professional communication to indicate that something should be handled promptly.
+- Example sentence: The support team resolved the critical security issue expeditiously.
+- Tamil meaning: விரைவாக, தாமதமின்றி, உடனடியாகவும் திறமையாகவும்.
+
+\- Enlightenment
+
+- Meanings: The state of gaining deep understanding or knowledge; freedom from ignorance or misunderstanding; a period in European history emphasizing reason and scientific thought.
+- Context: Used in education, philosophy, spirituality, and history.
+- Example sentence: Reading widely can lead to enlightenment and a better understanding of the world.
+- Tamil meaning: அறிவொளி, ஞானம், தெளிவான புரிதல், அறியாமையிலிருந்து விடுபடுதல்.
+
+\- Slammed
+
+- Meanings: Shut, hit, or struck something with great force; strongly criticized; extremely busy or overloaded.
+- Context: Used in news, sports, workplace conversations, and informal English. For example, I am slammed with work means having too much work.
+- Example sentence: The support team was slammed with requests after the service outage.
+- Tamil meaning: பலமாக அடித்தார், வேகமாக மூடினார், கடுமையாக விமர்சித்தார், வேலையில் மூழ்கியிருந்தார்.
+
+\- Prevailing
+
+- Meanings: Existing or happening generally at a particular time; most common or widespread; winning or proving stronger.
+- Context: Used in discussions about prevailing conditions, opinions, trends, winds, and customs.
+- Example sentence: The team adapted its strategy to the prevailing market conditions.
+- Tamil meaning: நிலவும், நடைமுறையில் உள்ள, பரவலாகக் காணப்படும், மேலோங்கிய.
+
+\- Jurisdiction
+
+- Meanings: The official authority to make legal decisions or enforce laws; the geographical area or subject over which that authority applies.
+- Context: Used in law, government administration, courts, policing, and regulatory matters.
+- Example sentence: The case was transferred to a court with the appropriate jurisdiction.
+- Tamil meaning: அதிகார வரம்பு, நீதிமன்ற அதிகார எல்லை, சட்ட அதிகாரம்.
+
+\- Idempotent
+
+- Meanings: Describes an operation that produces the same result when performed repeatedly under the same conditions as when performed once.
+- Context: Commonly used in software engineering, distributed systems, APIs, databases, and infrastructure automation. For example, an idempotent HTTP `PUT` request can be repeated without changing the intended final state.
+- Example sentence: The deployment script is idempotent, so running it multiple times does not create duplicate resources.
+- Tamil meaning: மீண்டும் மீண்டும் செயல்படுத்தினாலும் இறுதி நிலை மாறாத, ஒரே இறுதி முடிவைத் தரும்.
+
+\- Workforce
+
+- Meanings: The total number of people employed by an organization or available to work in a particular economy or industry.
+- Context: Used in human resources, business planning, economics, and discussions about employment and skills.
+- Example sentence: The company is training its workforce to use AI tools effectively.
+- Tamil meaning: பணியாளர் குழு, தொழிலாளர் படை, வேலைவாய்ப்பில் உள்ள மக்கள் தொகுதி.
+
+\- Crackdown
+
+- Meanings: Strong or severe action taken by authorities to stop illegal activities, rule-breaking, or unwanted behaviour.
+- Context: Used in law enforcement, government policy, cybersecurity, and regulatory investigations.
+- Example sentence: The authorities launched a crackdown on online financial fraud.
+- Tamil meaning: கடுமையான நடவடிக்கை, ஒடுக்குதல் நடவடிக்கை, சட்டவிரோதச் செயல்களுக்கு எதிரான தீவிர நடவடிக்கை.
+
+\- Heritage
+
+- Meanings: Traditions, culture, historical places, and values passed down from previous generations; property or assets inherited from ancestors.
+- Context: Used in history, architecture, culture, family traditions, and inheritance.
+- Example sentence: The city is working to preserve its cultural heritage for future generations.
+- Tamil meaning: பாரம்பரியம், மரபுச் செல்வம், பண்பாட்டு மரபு, பரம்பரைச் சொத்து.
+
+\- Stardom
+
+- Meanings: The state of being a famous and celebrated performer, entertainer, or public figure.
+- Context: Used in cinema, music, sports, and celebrity culture.
+- Example sentence: The actor rose to stardom after the success of his first major film.
+- Tamil meaning: நட்சத்திரப் புகழ், பிரபல நிலை, புகழின் உச்சநிலை.
+
+\- Appeasement
+
+- Meanings: The act of calming or satisfying someone by making concessions; a policy of giving in to demands to avoid conflict.
+- Context: Used in politics, diplomacy, negotiations, and personal relationships. In historical discussions, it often refers to concessions made to an aggressive power to prevent war.
+- Example sentence: The leaders debated whether the agreement was a practical compromise or an act of appeasement.
+- Tamil meaning: சமாதானப்படுத்துதல், இணங்கிச் செயல்படுதல், மோதலைத் தவிர்க்கச் சலுகைகள் வழங்குதல்.
+
+\- Duly
+
+- Meanings: Properly, correctly, or in accordance with what is required; at the appropriate time.
+- Context: Frequently used in formal, legal, and administrative English, as in duly signed, duly authorized, and duly noted.
+- Example sentence: The agreement was duly signed by both parties.
+- Tamil meaning: முறையாக, விதிமுறைப்படி, உரிய வகையில், தகுந்த நேரத்தில்.
+
+\- Chalking
+
+- Meanings: Marking or writing something with chalk; informally, attributing something to a particular cause or person, as in chalking it up to experience; planning or recording something, as in chalking up a victory.
+- Context: Used in education, sports, planning, and everyday expressions.
+- Example sentence: The coach was chalking the team's defeat up to a lack of preparation.
+- Tamil meaning: சுண்ணக்கட்டியால் எழுதுதல் அல்லது குறித்தல்; ஒரு காரணத்திற்குக் காரணமாகக் கருதுதல்; சாதனையைப் பதிவு செய்தல்.
+
+\- Grind
+
+- Meanings: To crush something into small particles or powder; to work hard for a long time; repetitive, tiring work or routine.
+- Context: Used in cooking, manufacturing, careers, studying, and informal expressions such as the daily grind.
+- Example sentence: She continued the daily grind of studying and working until she passed the examination.
+- Tamil meaning: அரைத்தல், பொடியாக்குதல்; கடுமையாக உழைத்தல்; சலிப்பூட்டும் தொடர்ச்சியான வேலை.
+
+\- Cassette
+
+- Meanings: A small container holding magnetic tape or another medium used to record and play audio or video; a removable cartridge used in certain devices.
+- Context: Most commonly associated with audio cassettes and video cassettes, especially in discussions of older recording technology.
+- Example sentence: My father used to listen to Tamil songs on an audio cassette.
+- Tamil meaning: ஒலிநாடா, கேசட், பதிவு நாடா.
+
+\- Tedious
+
+- Meanings: Long, repetitive, and boring; requiring considerable time and effort because of its repetitive nature.
+- Context: Used to describe paperwork, manual data entry, repetitive tasks, and lengthy processes.
+- Example sentence: Manually checking thousands of log entries is a tedious task.
+- Tamil meaning: சலிப்பூட்டும், அலுப்பான, நீண்ட நேரம் எடுக்கும், ஒரே மாதிரியாகத் தொடரும்.
+
+\- Dived
+
+- Meanings: Entered water headfirst or jumped into water; moved quickly downward; investigated or engaged deeply in a subject.
+- Context: Used in swimming, sports, physical movement, and expressions such as dived into the details. Dived is standard English; dove is also common, particularly in American English.
+- Example sentence: The engineer dived into the logs to identify the cause of the outage.
+- Tamil meaning: நீரில் மூழ்கினார், குதித்தார், வேகமாகக் கீழிறங்கினார்; ஆழமாக ஆராய்ந்தார்.
+
+\- Indigenous
+
+- Meanings: Originating naturally in a particular place; native to a region; relating to the original inhabitants of a place.
+- Context: Used in discussions of Indigenous communities, local plants and animals, traditional knowledge, and domestically developed technology.
+- Example sentence: The researchers studied indigenous plants that grow naturally in the region.
+- Tamil meaning: பூர்வீகமான, அந்தப் பகுதியைச் சேர்ந்த, உள்ளூரில் இயற்கையாக உருவான, பழங்குடியினருடன் தொடர்புடைய.
+
+\- Adulteration
+
+- Meanings: The act of making something impure or inferior by adding unauthorized, harmful, or lower-quality substances.
+- Context: Commonly used in food safety, pharmaceuticals, fuel quality, and product regulation.
+- Example sentence: Food inspectors discovered the adulteration of milk with prohibited substances.
+- Tamil meaning: கலப்படம், தூய்மையற்ற பொருட்களைக் கலந்து தரத்தைக் குறைத்தல், கலப்படம் செய்தல்.
+
+\- Digest
+
+- Meanings: To break down food in the body; to understand and process information; a concise summary of important information.
+- Context: Used in biology, learning, reading, and media. For example, digest the information means to think about it carefully until it is understood.
+- Example sentence: Take some time to digest the technical details before making a decision.
+- Tamil meaning: செரித்தல், தகவலைப் புரிந்துகொண்டு சிந்தித்தல்; சுருக்கத் தொகுப்பு.
+
+\- Derailed
+
+- Meanings: Caused a train to leave its tracks; disrupted or prevented a plan, project, or process from proceeding as intended.
+- Context: Used literally in railway accidents and figuratively in business, politics, careers, and project management.
+- Example sentence: Unexpected infrastructure problems derailed the planned software release.
+- Tamil meaning: தண்டவாளத்தை விட்டு விலகியது; திட்டத்தைத் தடம்புரளச் செய்தது; திட்டமிட்ட முன்னேற்றத்தைத் தடுத்தது.
+
+\- Fondly
+
+- Meanings: With affection or love; with warm and pleasant memories.
+- Context: Used when expressing affection for someone or remembering past experiences positively.
+- Example sentence: She fondly remembers her childhood days.
+- Tamil meaning: அன்புடன், பாசத்துடன், அன்பான நினைவுகளுடன்.
+
+\- Snag
+
+- Meanings: An unexpected problem or difficulty; to catch or tear on something.
+- Context: Used when a plan encounters an unexpected obstacle or delay.
+- Example sentence: We encountered a snag while deploying the application.
+- Tamil meaning: எதிர்பாராத சிக்கல், இடையூறு; சிக்கிக்கொள்ளுதல்.
+
+\- Drizzle
+
+- Meanings: Light rain falling in very small drops; to pour a liquid in a thin stream.
+- Context: Used in weather reports and cooking.
+- Example sentence: A light drizzle continued throughout the morning.
+- Tamil meaning: தூறல், சாரல்; சிறிதளவு திரவத்தைத் தெளித்தல்.
+
+\- Cramping
+
+- Meanings: Experiencing painful, involuntary muscle contractions; restricting movement or space.
+- Context: Used to describe muscle pain or limitations on someone's freedom or movement.
+- Example sentence: My legs were cramping after the long walk.
+- Tamil meaning: தசைப்பிடிப்பு ஏற்படுதல்; இடம் அல்லது சுதந்திரத்தைக் கட்டுப்படுத்துதல்.
+
+\- Assertion
+
+- Meanings: A confident statement or claim; the act of stating something firmly.
+- Context: Used in arguments, legal discussions, and programming to express or verify a claim.
+- Example sentence: His assertion that the system was secure required evidence.
+- Tamil meaning: உறுதியான கூற்று, வலியுறுத்தல், பிரகடனம்.
+
+\- Defuse
+
+- Meanings: To reduce tension or danger; to make an explosive device safe.
+- Context: Used when calming a conflict or neutralizing a dangerous situation.
+- Example sentence: The manager tried to defuse the disagreement between the teams.
+- Tamil meaning: பதற்றத்தைத் தணித்தல், ஆபத்தை நீக்குதல், வெடிகுண்டைச் செயலிழக்கச் செய்தல்.
+
+\- Embolden
+
+- Meanings: To give someone courage or confidence to act; to make someone more daring.
+- Context: Used when support, encouragement, or success increases someone's confidence.
+- Example sentence: Their early success emboldened them to take on a bigger challenge.
+- Tamil meaning: தைரியமூட்டுதல், துணிச்சலை அதிகரித்தல்.
+
+\- Ecstatic
+
+- Meanings: Extremely happy, excited, or joyful.
+- Context: Used to describe overwhelming happiness after an important or exciting event.
+- Example sentence: She was ecstatic when she received the job offer.
+- Tamil meaning: பேரானந்தமடைந்த, மிகுந்த மகிழ்ச்சியடைந்த.
+
+\- Sought
+
+- Meanings: Past tense and past participle of seek; tried to find, obtain, achieve, or request something.
+- Context: Common in formal writing, news reports, and professional communication.
+- Example sentence: The company sought expert advice before making the decision.
+- Tamil meaning: தேடினார், நாடினார், பெற முயன்றார்.
+
+\- Pleaded
+
+- Meanings: Begged earnestly; made a formal statement in court about being guilty or not guilty.
+- Context: Used for emotional appeals and legal proceedings.
+- Example sentence: He pleaded with his parents to let him join the trip.
+- Tamil meaning: கெஞ்சினார், மன்றாடினார்; நீதிமன்றத்தில் குற்றத்தை ஒப்புக்கொண்டார் அல்லது மறுத்தார்.
+
+\- Dodgy
+
+- Meanings: Suspicious, dishonest, unreliable, or potentially dangerous.
+- Context: Informal British English, commonly used for questionable people, deals, websites, or situations.
+- Example sentence: The website looked dodgy, so I avoided entering my bank details.
+- Tamil meaning: சந்தேகத்திற்குரிய, நம்பகமற்ற, மோசடியான.
+
+\- Gurdwara
+
+- Meanings: A place of worship for Sikhs; a community center where Sikhs gather for prayer and service.
+- Context: Used when discussing Sikh religion, worship, and community activities.
+- Example sentence: The family visited the gurdwara to offer prayers.
+- Tamil meaning: சீக்கியர்களின் வழிபாட்டுத் தலம்.
+
+\- Testimony
+
+- Meanings: A formal statement given as evidence, especially in court; a personal account of an experience or belief.
+- Context: Common in court cases, investigations, and personal accounts.
+- Example sentence: The witness gave testimony about what happened that night.
+- Tamil meaning: சாட்சியம், சாட்சிக் கூற்று, அனுபவத்தின் அடிப்படையிலான விளக்கம்.
+
+\- Welfare
+
+- Meanings: Health, happiness, and well-being; government assistance provided to people in need.
+- Context: Used in social policy, employee benefits, public services, and family well-being.
+- Example sentence: The government introduced a scheme to improve the welfare of farmers.
+- Tamil meaning: நலன், நல்வாழ்வு, சமூக நல உதவி.
+
+\- Furious
+
+- Meanings: Extremely angry; very intense or powerful.
+- Context: Used to describe strong anger or extreme intensity.
+- Example sentence: The customer was furious about the repeated service failures.
+- Tamil meaning: கடும் கோபமடைந்த, ஆத்திரமடைந்த; மிகத் தீவிரமான.
+
+\- Judicial
+
+- Meanings: Relating to courts, judges, or the administration of justice.
+- Context: Used in legal and government contexts, such as judicial review and judicial proceedings.
+- Example sentence: The decision is subject to judicial review.
+- Tamil meaning: நீதித்துறை சார்ந்த, நீதிமன்றம் தொடர்பான.
+
+\- Cargo
+
+- Meanings: Goods transported by ship, aircraft, train, or truck.
+- Context: Used in shipping, logistics, trade, and transportation.
+- Example sentence: The ship carried a large cargo of electronic equipment.
+- Tamil meaning: சரக்கு, போக்குவரத்துக்காக எடுத்துச் செல்லப்படும் பொருட்கள்.
+
+\- Grim
+
+- Meanings: Gloomy, harsh, unpleasant, or offering little hope; stern or forbidding in appearance.
+- Context: Used to describe serious situations, bleak prospects, or disturbing expressions.
+- Example sentence: The report painted a grim picture of the company's financial condition.
+- Tamil meaning: கடுமையான, மோசமான, நம்பிக்கையற்ற, துயரமான.
+
+\- Jurisprudential
+
+- Meanings: Relating to jurisprudence, the philosophy, theory, and principles of law.
+- Context: Used in advanced legal and academic discussions about the nature, interpretation, and foundations of law.
+- Example sentence: The judgment raised important jurisprudential questions about individual rights.
+- Tamil meaning: சட்டக் கோட்பாடு சார்ந்த, சட்டத் தத்துவம் தொடர்பான.
+
+\- Constituted
+
+- Meanings: Formed or made up; officially established; amounted to or represented something.
+- Context: Used in legal, organizational, and formal writing. For example, a committee can be constituted, or an action can constitute a violation.
+- Example sentence: The committee was constituted to investigate the allegations.
+- Tamil meaning: அமைக்கப்பட்டது, உருவாக்கப்பட்டது, நிறுவப்பட்டது; ஒன்றாக அமைந்தது.
+
+\- Narcotics
+
+- Meanings: Drugs that relieve pain or cause sleepiness; commonly, illegal or controlled drugs that can cause dependence.
+- Context: Used in medicine, law enforcement, and news reports about drug trafficking.
+- Example sentence: The police seized a large quantity of narcotics during the operation.
+- Tamil meaning: போதைப்பொருட்கள், வலி நிவாரண மருந்துகள்.
+
+\- Corridor
+
+- Meanings: A passage connecting rooms or sections of a building; a long, narrow route or strip of land connecting places.
+- Context: Used in buildings, transportation, geography, and infrastructure planning.
+- Example sentence: The students were waiting quietly in the corridor.
+- Tamil meaning: நடைபாதை, இடைநுழைவுப் பாதை, போக்குவரத்துப் பாதை.
+
+\- Battle
+
+- Meanings: A fight between armed forces; a determined struggle against a problem or opponent; to struggle.
+- Context: Used in military situations as well as personal, political, and professional challenges.
+- Example sentence: The country fought a long battle for independence.
+- Tamil meaning: போர், சண்டை, போராட்டம்; போராடுதல்.
+
+\- Authenticity
+
+- Meanings: The quality of being genuine, real, or trustworthy; the quality of being true to the original.
+- Context: Used when verifying documents, products, historical records, or information.
+- Example sentence: The museum verified the authenticity of the ancient sculpture.
+- Tamil meaning: உண்மைத்தன்மை, நம்பகத்தன்மை, அசல்தன்மை.
+
+\- Prolonged
+
+- Meanings: Continuing for a long time; extended beyond the usual or expected duration.
+- Context: Often used for delays, conflicts, illnesses, discussions, and periods of difficulty.
+- Example sentence: The project was delayed due to prolonged negotiations.
+- Tamil meaning: நீண்டகாலம் நீடித்த, நீட்டிக்கப்பட்ட.
+
+\- Consortium
+
+- Meanings: An association of organizations, companies, or institutions formed to work toward a shared objective.
+- Context: Common in business, banking, research, and large infrastructure projects.
+- Example sentence: A consortium of banks provided funding for the highway project.
+- Tamil meaning: கூட்டமைப்பு, கூட்டு அமைப்பு, பொதுநோக்கத்திற்காக இணைந்த நிறுவனங்களின் குழு.
+
+\- Pottery
+
+- Meanings: Objects made from clay and hardened by heat; the craft of making such objects.
+- Context: Used in art, handicrafts, archaeology, and traditional manufacturing.
+- Example sentence: The village is famous for its traditional pottery.
+- Tamil meaning: மட்பாண்டங்கள், மண்பாண்டத் தயாரிப்புக் கலை.
+
+\- Drew
+
+- Meanings: Past tense of draw; pulled or attracted; produced a picture; reached a conclusion or conclusion-like result; moved toward a place or time.
+- Context: Used in drawing, movement, attention, and expressions such as “drew a conclusion” or “drew criticism.”
+- Example sentence: The report drew attention to serious safety concerns.
+- Tamil meaning: வரைந்தார், இழுத்தார், ஈர்த்தார், கவனத்தை ஈர்த்தது; முடிவுக்கு வந்தார்.
+
+\- Chipped
+
+- Meanings: Damaged by losing a small piece; cut or broken off in small pieces.
+- Context: Used for damaged cups, plates, teeth, paint, and stone surfaces.
+- Example sentence: She replaced the chipped glass before serving the guests.
+- Tamil meaning: சிறு பகுதி உடைந்த, விளிம்பு சிதைந்த, சிறு துண்டாக உடைத்த.
+
+\- Legislatures
+
+- Meanings: Bodies of elected or appointed representatives that make laws; plural of legislature.
+- Context: Used in discussions about government, lawmaking, and political institutions.
+- Example sentence: State legislatures can pass laws on matters within their authority.
+- Tamil meaning: சட்டமன்றங்கள், சட்டங்களை இயற்றும் அமைப்புகள்.
+
+\- Traction
+
+- Meanings: The grip between a surface and a moving object; progress, acceptance, or growing support for an idea or initiative.
+- Context: Used in vehicles and engineering, as well as business and technology—for example, when a product gains traction.
+- Example sentence: The new application is gaining traction among small businesses.
+- Tamil meaning: பிடிப்பு, இழுவிசை; முன்னேற்றம், ஆதரவு அல்லது வரவேற்பு அதிகரித்தல்.
+
+\- Circumscribing
+
+- Meanings: Restricting or limiting the scope, freedom, or boundaries of something; drawing a boundary around something.
+- Context: Often used in formal, legal, political, and academic writing.
+- Example sentence: The new regulations are circumscribing the company's ability to operate freely.
+- Tamil meaning: வரம்புக்குள் கட்டுப்படுத்துதல், எல்லையை வரையறுத்தல்.
+
+\- Insistence
+
+- Meanings: The act of firmly demanding or maintaining something; persistent emphasis on a particular point.
+- Context: Used when someone strongly maintains a position or refuses to give up a demand.
+- Example sentence: At her insistence, the team reviewed the results once again.
+- Tamil meaning: வலியுறுத்தல், உறுதியான கோரிக்கை, பிடிவாதம்.
+
+\- Brewing
+
+- Meanings: Making beer or another fermented drink; preparing tea or coffee; developing or beginning to happen, especially something troublesome.
+- Context: Used in food and drink preparation and figuratively for emerging conflicts or problems.
+- Example sentence: Tensions were brewing between the two departments.
+- Tamil meaning: பானம் தயாரித்தல், காய்ச்சுதல்; பிரச்சினை அல்லது பதற்றம் உருவாகுதல்.
+
+\- Enlist
+
+- Meanings: To join the armed forces; to obtain someone's help, support, or participation.
+- Context: Used in military recruitment and when seeking assistance from people or organizations.
+- Example sentence: The manager enlisted the support of experienced engineers to solve the problem.
+- Tamil meaning: ராணுவத்தில் சேருதல்; உதவி அல்லது ஆதரவைப் பெறுதல்.
+
+\- Fiascos
+
+- Meanings: Complete failures or embarrassing disasters; plural of fiasco.
+- Context: Used when an event, plan, or project fails badly and causes embarrassment.
+- Example sentence: The poorly organized events turned into public fiascos.
+- Tamil meaning: படுதோல்விகள், பெரும் தோல்விகள், அவமானகரமான தோல்விகள்.
+
+\- Abate
+
+- Meanings: To become less intense, severe, or widespread; to reduce in strength or amount.
+- Context: Often used for storms, pain, anger, noise, and public concerns.
+- Example sentence: The heavy rain began to abate in the evening.
+- Tamil meaning: தணிதல், குறைதல், தீவிரம் குறைதல்.
+
+\- Skull
+
+- Meanings: The bony structure of the head that protects the brain and supports the face.
+- Context: Used in anatomy, medicine, archaeology, and descriptions of injuries.
+- Example sentence: The helmet helps protect the skull from serious injuries.
+- Tamil meaning: மண்டையோடு, தலைக்கூடு.
+
+\- Impediments
+
+- Meanings: Obstacles or difficulties that delay or prevent progress; plural of impediment.
+- Context: Used in business, law, communication, and project management to describe barriers.
+- Example sentence: Lack of funding and technical skills were major impediments to the project.
+- Tamil meaning: தடைகள், இடையூறுகள், முன்னேற்றத்தைத் தடுக்கும் காரணிகள்.
+
+\- Upscale
+
+- Meanings: High-quality, expensive, or designed for affluent customers; to increase the size, scale, or quality of something.
+- Context: Used in business, retail, hotels, restaurants, and technology. As a verb, it can mean expanding an operation or increasing image resolution.
+- Example sentence: They opened an upscale restaurant in the city centre.
+- Tamil meaning: உயர்தரமான, ஆடம்பரமான, விலையுயர்ந்த; அளவு அல்லது தரத்தை உயர்த்துதல்.
+
+\- Inclusive
+
+- Meanings: Including everyone or everything relevant; welcoming people regardless of their backgrounds or differences; covering all necessary elements.
+- Context: Used in education, workplaces, society, pricing, and policies. For example, “tax-inclusive price” includes tax.
+- Example sentence: The company aims to create an inclusive workplace where everyone feels respected.
+- Tamil meaning: அனைவரையும் உள்ளடக்கிய, அனைவரையும் ஏற்றுக்கொள்ளும், உள்ளடக்கிய, முழுமையான.
+
+\- Charitable
+
+- Meanings: Generous in giving money or help to people in need; related to charity; inclined to interpret others' actions kindly.
+- Context: Used when describing donations, charitable organizations, or a generous attitude toward others.
+- Example sentence: The charitable organization provided food and shelter to homeless families.
+- Tamil meaning: தர்மம் செய்கிற, தொண்டு மனப்பான்மை கொண்ட, தாராளமான, பிறரிடம் கருணையுடன் நடக்கும்.
+
+\- Harbored
+
+- Meanings: Kept or concealed something; continued to hold a feeling or thought; provided shelter or refuge.
+- Context: Often used for hidden emotions, suspicions, resentment, or people being sheltered.
+- Example sentence: He harbored doubts about the company's decision.
+- Tamil meaning: மனதில் வைத்திருந்தார், மறைத்து வைத்திருந்தார், அடைக்கலம் அளித்தார்.
+
+\- Righteous
+
+- Meanings: Morally right, just, and virtuous; acting according to principles of fairness and goodness.
+- Context: Used in moral, religious, and social discussions. “Self-righteous” describes someone who believes they are morally superior to others.
+- Example sentence: She believed that fighting corruption was a righteous cause.
+- Tamil meaning: நீதியான, நேர்மையான, அறநெறி சார்ந்த, தர்மமான.
+
+\- Nostalgia
+
+- Meanings: A sentimental longing for the past, especially for happy memories or familiar experiences.
+- Context: Used when remembering childhood, old friends, previous homes, or earlier times with affection.
+- Example sentence: The old photographs filled him with nostalgia for his school days.
+- Tamil meaning: கடந்தகால நினைவுகளின் ஏக்கம், பழைய நினைவுகளை நினைத்து ஏற்படும் உணர்ச்சி.
+
+\- Effigies
+
+- Meanings: Models or representations of people, usually made from straw, cloth, or other materials; plural of effigy.
+- Context: Often used in news reports when protesters burn or display a representation of a political leader.
+- Example sentence: Protesters burned effigies of the political leaders.
+- Tamil meaning: உருவப் பொம்மைகள், ஒருவரின் உருவத்தைப் பிரதிபலிக்கும் பொம்மைகள்.
+
+\- Husbandry
+
+- Meanings: The practice of managing and caring for farm animals, crops, or natural resources; careful management of something.
+- Context: Commonly used in agriculture, livestock farming, fisheries, and resource management.
+- Example sentence: Good animal husbandry improves livestock health and productivity.
+- Tamil meaning: கால்நடை வளர்ப்பு மற்றும் பராமரிப்பு, வேளாண்மை மேலாண்மை, வளங்களை முறையாகப் பராமரித்தல்.
+
+\- Relevance
+
+- Meanings: The quality of being connected to or important for a particular subject, situation, or purpose.
+- Context: Used in discussions about information, evidence, skills, and decisions.
+- Example sentence: The interviewer questioned the relevance of his previous experience to the new role.
+- Tamil meaning: தொடர்புடைய தன்மை, பொருத்தம், முக்கியத்துவம்.
+
+\- Humdinger
+
+- Meanings: An outstanding, impressive, or remarkable person or thing; sometimes something unusually powerful or intense.
+- Context: Informal English, often used to describe something surprisingly good, exciting, or impressive.
+- Example sentence: The final match was a real humdinger.
+- Tamil meaning: மிகச் சிறப்பான ஒன்று, பிரமிக்க வைக்கும் விஷயம், அசத்தலான நிகழ்வு.
+
+\- Superfluous
+
+- Meanings: Unnecessary, excessive, or more than what is needed.
+- Context: Used in formal writing, business, and everyday situations to describe redundant information, effort, or items.
+- Example sentence: The report contained several superfluous details that distracted readers from the main findings.
+- Tamil meaning: தேவையற்ற, மிகுதியான, அவசியமில்லாத, மிதமிஞ்சிய.
+
+\- Amicably
+
+- Meanings: In a friendly, peaceful, and cooperative manner; without hostility or conflict.
+- Context: Often used when describing agreements, negotiations, separations, or disputes resolved peacefully.
+- Example sentence: The two companies settled their dispute amicably.
+- Tamil meaning: நட்புறவுடன், சுமுகமாக, இணக்கமாக, பகையின்றி.
+
+\- Ascetic
+
+- Meanings: A person who lives a simple, disciplined life and avoids physical pleasures; relating to a life of self-denial.
+- Context: Used in religious, spiritual, and philosophical discussions about renouncing material comforts.
+- Example sentence: The ascetic lived in a small hut and owned very few possessions.
+- Tamil meaning: துறவி, பற்றற்ற வாழ்க்கை வாழ்பவர்; துறவறம் சார்ந்த, எளிமையான வாழ்க்கை முறையைக் கடைப்பிடிக்கும்.
+
+\- Craftsmanship
+
+- Meanings: The skill, quality, and care involved in making something by hand or performing skilled work.
+- Context: Used when praising the quality of furniture, buildings, artwork, software, or other carefully produced work.
+- Example sentence: The intricate craftsmanship of the wooden sculpture impressed the visitors.
+- Tamil meaning: கைவினைத்திறன், வேலைப்பாட்டுத் திறமை, நுணுக்கமான தயாரிப்புத் தரம்.
+
+\- Protracted
+
+- Meanings: Lasting for a long time, especially longer than expected or necessary.
+- Context: Often used to describe negotiations, legal disputes, conflicts, or delays.
+- Example sentence: The project was delayed by protracted negotiations with the supplier.
+- Tamil meaning: நீண்டகாலம் நீடித்த, எதிர்பார்த்ததைவிட நீண்டுபோன.
+
+\- Territory
+
+- Meanings: An area of land under the control of a country or group; a particular geographical region; an area of knowledge, responsibility, or activity.
+- Context: Used in geography, politics, business, and professional roles.
+- Example sentence: The sales team expanded its operations into new territory.
+- Tamil meaning: நிலப்பரப்பு, ஆளுகைப் பகுதி, பிரதேசம், செயல்பாட்டுத் துறை.
+
+\- Cogs
+
+- Meanings: Teeth on a wheel that engage with another wheel; small but essential parts of a larger system; plural of cog.
+- Context: Used in machinery and figuratively to describe people or components that contribute to a larger organization.
+- Example sentence: Every employee is an important cog in the company's operations.
+- Tamil meaning: பற்சக்கரப் பற்கள்; பெரிய அமைப்பின் சிறிய ஆனால் முக்கியமான உறுப்புகள்.
+
+\- Curtain
+
+- Meanings: A piece of fabric used to cover a window or separate spaces; a screen or barrier; the ending of a performance or event, as in “curtain call.”
+- Context: Used in homes, theatres, and figuratively in expressions such as “draw a curtain over the past.”
+- Example sentence: She opened the curtains to let sunlight into the room.
+- Tamil meaning: திரை, சாளரத் திரை, மறைப்புத் துணி.
+
+\- Bizarre
+
+- Meanings: Very strange, unusual, or unexpected, sometimes in a way that seems ridiculous.
+- Context: Used to describe unusual behaviour, events, ideas, or situations.
+- Example sentence: The police heard a bizarre explanation for the missing documents.
+- Tamil meaning: விசித்திரமான, வினோதமான, மிகவும் அசாதாரணமான.
+
+\- Rescue
+
+- Meanings: To save someone or something from danger; the act of saving a person, animal, or object from harm.
+- Context: Used in emergencies, disaster response, accidents, and situations involving financial or operational recovery.
+- Example sentence: Firefighters worked through the night to rescue the trapped residents.
+- Tamil meaning: காப்பாற்றுதல், மீட்பது, மீட்பு நடவடிக்கை.
+
+\- Fillip
+
+- Meanings: Something that gives a boost, encouragement, or renewed energy; a small flick or tap with a finger.
+- Context: The figurative meaning is common in news and business writing, especially in phrases such as “give a fillip to growth.”
+- Example sentence: The government's new policy gave a fillip to small businesses.
+- Tamil meaning: ஊக்கம், உந்துதல், புத்துணர்ச்சி அளிக்கும் உதவி; விரலால் கொடுக்கும் சிறிய தட்டு.
+
+\- Sway
+
+- Meanings: To move gently from side to side; to influence someone's opinion or decision; to control or dominate.
+- Context: Used for physical movement and influence in politics, negotiations, and personal decisions.
+- Example sentence: The manager's convincing arguments swayed the committee.
+- Tamil meaning: ஆடுதல், அசைதல்; ஒருவரின் கருத்தை மாற்றுதல், செல்வாக்கு செலுத்துதல்.
+
+\- Acquittal
+
+- Meanings: A legal judgment that a person is not guilty of a criminal charge.
+- Context: Used in criminal law when a court finds the accused not guilty or the prosecution fails to establish guilt to the required standard.
+- Example sentence: The defendant's acquittal came after the court examined all the evidence.
+- Tamil meaning: குற்றமற்றவர் என விடுதலை செய்தல், குற்றச்சாட்டிலிருந்து விடுவித்தல், விடுதலைத் தீர்ப்பு.
+
+
+\- Flashpoint
+
+- Meanings: A situation or place where conflict is likely to erupt; a trigger for sudden anger, violence, or controversy.
+- Context: Commonly used in news and politics to describe a place or issue that could lead to serious conflict.
+- Example sentence: The disputed border became a flashpoint between the two countries.
+- Tamil meaning: மோதல் வெடிக்கக்கூடிய இடம் அல்லது சூழ்நிலை, பதற்றத்தின் மையப்புள்ளி.
+
+\- Immigrants
+
+- Meanings: People who move to another country to live there permanently or for an extended period; plural of immigrant.
+- Context: Used in discussions about migration, employment, citizenship, and immigration policies.
+- Example sentence: Many immigrants move to cities in search of better job opportunities.
+- Tamil meaning: குடியேறிகள், வேறொரு நாட்டில் குடியேறுபவர்கள்.
+
+\- Deserted
+
+- Meanings: Empty because people have left; abandoned by people; left behind by someone who should provide support.
+- Context: Used to describe empty streets, abandoned buildings, or people who have been abandoned.
+- Example sentence: We walked through the deserted streets late at night.
+- Tamil meaning: ஆளில்லாத, கைவிடப்பட்ட, தனியாக விடப்பட்ட.
+
+\- Clash
+
+- Meanings: A fight or disagreement; a conflict between opposing ideas or interests; to collide or be incompatible.
+- Context: Used for physical fights, political disputes, cultural differences, schedules, and colours.
+- Example sentence: The meeting was postponed because it clashed with another important event.
+- Tamil meaning: மோதல், சண்டை, கருத்து வேறுபாடு; முரண்படுதல், மோதுதல்.
+
+\- Exhorted
+
+- Meanings: Strongly urged, encouraged, or advised someone to take a particular action; past tense of exhort.
+- Context: Often used in speeches, political news, leadership, and formal appeals.
+- Example sentence: The coach exhorted the players to give their best in the final match.
+- Tamil meaning: வலியுறுத்தினார், தீவிரமாக ஊக்குவித்தார், அறிவுறுத்தினார்.
+
+\- Glut
+
+- Meanings: An excessive supply of something; to supply or fill something in excessive quantities.
+- Context: Commonly used in economics, markets, and business when supply exceeds demand.
+- Example sentence: A glut of tomatoes caused prices to fall sharply.
+- Tamil meaning: அளவுக்கு அதிகமான வழங்கல், சந்தையில் மிகை இருப்பு; அளவுக்கு அதிகமாக நிரப்புதல்.
+
+\- Slog
+
+- Meanings: To work hard for a long time at a difficult or tiring task; to walk or move with great effort; a long, exhausting effort.
+- Context: Informal English, often used for demanding work, difficult journeys, or prolonged struggles.
+- Example sentence: Completing the migration was a long slog for the engineering team.
+- Tamil meaning: கடினமாக உழைத்தல், சிரமப்பட்டு முன்னேறுதல், நீண்ட கடின முயற்சி.
+
+\- Reprieve
+
+- Meanings: A temporary delay or cancellation of punishment; a short period of relief from something unpleasant.
+- Context: Used in legal situations and figuratively for temporary relief from pressure, danger, or difficulties.
+- Example sentence: The rain gave the firefighters a brief reprieve from the intense heat.
+- Tamil meaning: தற்காலிக நிவாரணம், தண்டனையைத் தற்காலிகமாக ஒத்திவைத்தல், சிறிது கால அவகாசம்.
+
+\- Propel
+
+- Meanings: To push, drive, or force something forward; to help someone or something advance or succeed.
+- Context: Used in physics, transport, careers, business, and technological progress.
+- Example sentence: Her innovative ideas propelled the company into a new market.
+- Tamil meaning: முன்னோக்கித் தள்ளுதல், உந்துதல், முன்னேற்றுதல்.
+
+\- Ailments
+
+- Meanings: Illnesses or health problems, usually minor or long-lasting; plural of ailment.
+- Context: Used in healthcare and everyday conversations about physical discomfort or illness.
+- Example sentence: The doctor treated him for several minor ailments.
+- Tamil meaning: நோய்கள், உடல்நலக் குறைபாடுகள், உடல் உபாதைகள்.
+
+\- Intact
+
+- Meanings: Complete and undamaged; remaining whole and unchanged.
+- Context: Used for objects, buildings, systems, relationships, and records that remain undamaged or preserved.
+- Example sentence: Fortunately, the documents remained intact after the flood.
+- Tamil meaning: சேதமடையாத, முழுமையாக உள்ள, பாதிக்கப்படாத.
+
+\- Panaceas
+
+- Meanings: Supposed solutions or remedies that can solve every problem or cure every disease; plural of panacea.
+- Context: Often used critically to explain that a proposed solution cannot fix every problem.
+- Example sentence: Experts warned that artificial intelligence is not a panacea for every business challenge.
+- Tamil meaning: எல்லாப் பிரச்சினைகளுக்கும் தீர்வு எனக் கருதப்படும் வழிகள், சர்வரோக நிவாரணி மருந்துகள்.
+
+\- Congestion
+
+- Meanings: Overcrowding or blockage; excessive accumulation that restricts normal flow.
+- Context: Used for traffic, crowded places, network traffic, and medical conditions such as nasal congestion.
+- Example sentence: Road congestion increased after the traffic signal stopped working.
+- Tamil meaning: நெரிசல், போக்குவரத்து நெருக்கடி, அடைப்பு, அளவுக்கு அதிகமான குவிப்பு.
+
+\- Exhortations
+
+- Meanings: Strong appeals, urgent advice, or forceful encouragement to do something; plural of exhortation.
+- Context: Used in speeches, public announcements, political campaigns, and formal communications.
+- Example sentence: Despite repeated exhortations from the coach, the team struggled to improve.
+- Tamil meaning: வலியுறுத்தல்கள், தீவிர ஊக்குவிப்புகள், வலிமையான அறிவுறுத்தல்கள்.
+
+\- Rendition
+
+- Meanings: A performance or interpretation of a song, piece of music, or work of art; the act of presenting something in a particular form; the surrender or transfer of a person to another authority or country in certain legal contexts.
+- Context: Used in music, art, translation, and legal or political discussions. The exact meaning depends on the context.
+- Example sentence: The singer delivered a beautiful rendition of the national anthem.
+- Tamil meaning: நிகழ்த்தல், விளக்கம் அல்லது வடிவாக்கம், பாடலின் நிகழ்த்தல்; ஒப்படைத்தல்.
+
+\- Groping
+
+- Meanings: Searching by touch, especially in darkness; trying uncertainly to find an answer or direction; touching someone inappropriately without consent.
+- Context: Used literally for searching without seeing and figuratively for struggling to understand something.
+- Example sentence: The engineers were groping for a solution to the unfamiliar technical problem.
+- Tamil meaning: தடவித் தேடுதல், தடுமாறித் தேடுதல், தெளிவின்றி வழி தேடுதல்.
+
+\- Bandwagon
+
+- Meanings: A popular activity, idea, or movement that attracts increasing support; a trend that people join because many others have joined it.
+- Context: Often used in the expression “jump on the bandwagon,” meaning to join a popular trend, sometimes without careful thought.
+- Example sentence: Many companies jumped on the artificial intelligence bandwagon.
+- Tamil meaning: பிரபலமான போக்கு, மக்கள் ஆதரிக்கும் இயக்கம்; பிறரைப் பின்பற்றி ஒரு போக்கில் இணைதல்.
+
+\- Blending
+
+- Meanings: Mixing two or more things together; combining elements smoothly; merging sounds or words.
+- Context: Used in cooking, manufacturing, music, languages, and technology.
+- Example sentence: Blending traditional methods with modern technology improved productivity.
+- Tamil meaning: கலத்தல், ஒன்றிணைத்தல், கலந்து இணைத்தல்.
+
+\- Statutory
+
+- Meanings: Required, authorized, or established by a statute or law.
+- Context: Commonly used in legal, government, and employment contexts, such as statutory requirements and statutory benefits.
+- Example sentence: Employers must comply with statutory safety requirements.
+- Tamil meaning: சட்டத்தால் நிர்ணயிக்கப்பட்ட, சட்டப்படி கட்டாயமான, சட்டம் சார்ந்த.
+
+\- Scout
+
+- Meanings: A person sent to gather information or search for people, places, or opportunities; to explore or inspect an area; a member of a scouting organization.
+- Context: Used in military operations, sports recruitment, talent searches, and outdoor activities.
+- Example sentence: The football club sent a scout to identify promising young players.
+- Tamil meaning: உளவு பார்ப்பவர், தேடிச் சென்று தகவல் சேகரிப்பவர், திறமையாளர்களைக் கண்டறிபவர்; ஆய்வு செய்தல்.
+
+\- Liaison
+
+- Meanings: Communication and cooperation between people or organizations; a person who coordinates communication between groups.
+- Context: Used in business, government, healthcare, and project management to describe coordination between teams.
+- Example sentence: She acted as a liaison between the engineering team and the customer.
+- Tamil meaning: தொடர்பு மற்றும் ஒருங்கிணைப்பு, இணைப்பாளர், குழுக்களுக்கிடையிலான தகவல் பரிமாற்றம்.
 
